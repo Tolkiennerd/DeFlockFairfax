@@ -1,0 +1,53 @@
+:root {
+  --link-text-color: #0050e6;
+  --error-text-color: #6b0000;
+  --color-primary-600: rgb(71, 53, 207);
+}
+:root.dark {
+  --link-text-color: #a6bce5;
+  --error-text-color: #ff7777;
+  --color-primary-600: rgb(71, 53, 207);
+}
+
+main a:not(.post-box) {
+  color: var(--link-text-color) !important;
+  text-decoration: none;
+}
+
+main a:not(.post-box):hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: inside !important;
+}
+
+div.mt-6 ul li {
+  font-size: 18px !important;
+}
+
+#contact-name-textbox.invalid:not(.valid) {
+  border-color: var(--error-text-color);
+}
+#contact-name-textbox.invalid:not(.valid)::placeholder {
+  color: var(--error-text-color);
+}
+
+#contact-email-textbox.invalid:not(.valid) {
+  border-color: var(--error-text-color);
+}
+#contact-email-textbox.invalid:not(.valid)::placeholder {
+  color: var(--error-text-color);
+}
+
+#message.invalid:not(.valid) {
+  border-color: var(--error-text-color);
+}
+#message.invalid:not(.valid)::placeholder {
+  color: var(--error-text-color);
+}
+
+iframe.full-youtube {
+  width: 100%;
+  aspect-ratio: 4/3;
+}

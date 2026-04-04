@@ -1,0 +1,249 @@
+baseURL: 'https://deflockfairfax.com/'
+title: De-Flock Fairfax
+languageCode: en-us
+DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: false
+enableRobotsTXT: true
+canonifyURLs: false
+pagination:
+  pagerSize: 9
+darkmode_js:
+  - assets/js/darkmode.js
+enableInlineShortcodes: true
+description: De-Flock Fairfax
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+params:
+  og_image: /images/flock-camera-wide.jpg
+  moto: "Unchecked Spying Erodes Your Privacy, Immigrants' Rights, and the Rule of Law"
+  description: |
+    Fairfax County uses automated license plate readers, including Flock.
+    After widespread reports of Flock's privacy invasions and cooperation with ICE, Virginia regulated it.
+    Several departments didn't follow the regulations, so our data is at risk. It's time to de-Flock.
+  disable_theme_toggle: false
+  newsletter_signup: true
+
+  p1:
+    heading: "What's Going On?"
+    content:
+      - text: |
+          In 2023, the Fairfax County Police Department began using [Flock Safety License Plate Readers](https://www.ffxnow.com/2023/11/21/county-approves-funds-to-expand-fcpds-automatic-license-plate-reader-program/). 
+          Unlike normal traffic cameras, automated license plate readers (ALPRs) [continually monitor](https://www.aclu-or.org/know-your-tech-flock/)
+          all traffic to uniquely profile each vehicle and create an easily searchable history of its movements [without a warrant](https://www.13newsnow.com/article/news/local/mycity/norfolk/virginia-appeals-court-norfolk-police-flock-camera-data/291-0dded2ca-98a1-42a7-98a5-67ce9a4ccc19).
+          Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
+      - text: |
+          - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
+          - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
+          - Track a [Texas woman getting an abortion](https://www.the-independent.com/news/world/americas/crime/texas-abortion-license-plate-camera-b2760411.html).
+          - Tell an [innocent citizen](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
+      - text: |
+          When FCPD started using ALPRs, it [claimed](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
+          did "not share information to federal authorities regarding their investigations into immigration enforcement." 
+      - text: |
+          However, audits show Flock cameras were used in many [immigration-related cases](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) in Fairfax county.
+          Of all immigration-related searches in Virginia, over half of them took place in Fairfax county.
+          Capt. Jesse Katzman said FCPD officers did not conduct these searches but this could have happened because "We share our license plate reader system with 13 other agencies."
+      - text: |
+          In response to these concerns, Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
+          In 2026, the Crime Commission released [police departments' self-reported Flock usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
+          A third of departments didn't respond. Of the respondents using ALPRs:
+      - text: |
+          - 35% haven't promoted public awareness of ALPR usage, in violation of the law.
+          - 16% don't have an ALPR policy, in violation of the law. 
+          - 21% keep data longer than 21 days, in violation of the law.
+          - 13% share continuous ALPR data with out-of-state agencies, in violation of the law.
+          - 6% share continuous ALPR data with federal agencies, in violation of the law.
+          - The report did not say which departments broke the law.
+      - text: |
+          Flock [admitted to lying](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0) about sending data to immigration enforcement.
+          Regulating Flock has failed, and its lawful usage relies on broken promises from the company itself.
+      - text: |
+          [Other Virginia police departments](https://www.wvtf.org/news/2026-01-15/charlottesville-and-staunton-cancel-license-plate-reading-technology) have terminated their Flock contracts. 
+          It's time for Fairfax County to follow suit. 
+          It's time to de-Flock.
+  p2:
+    heading: "Flock Doesn't Make Us Safer"
+    image: "images/pages/lpr-demo.webp"
+    content:
+      - text: |
+          Flock claims its cameras have solved 10% of reported crimes in the US.
+          This comes from a study [predominantly written by Flock employees](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/),
+          and its other claims about safety have faced [skepticism from academics](https://www.wired.com/story/flock-safety-license-plate-readers-crime/). 
+      - text: |
+          Contrary to the idea that there is "no expectation of privacy in public," the Supreme Court explicitly [stated](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
+          "A person does not surrender all Fourth Amendment protection by venturing into the public sphere."
+      - text: |
+          ALPRs have created many false alerts that resulted in innocent people, including children and families, [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
+          Officers have used Flock data to stalk their [ex-partners](https://web.archive.org/web/20230617100257/https://stpp.fordschool.umich.edu/news/2023/automated-license-plate-readers-widely-used-subject-abuse).
+      - text: |
+          Police departments collect Flock data without warrants. Officers have been told to "[be as vague as permissible](https://www.404media.co/police-told-to-be-as-vague-as-permissible-about-why-they-use-flock/)"
+          for why they are using Flock. Virginia police have issued [thousands of searches](https://vcij.org/stories/virginia-police-search-vehicle-surveillance-data-247-why-isnt-always-clear)
+          with vague, one-word justifications such as "suspect," "suspicious," or even "123." 
+      - text: |
+          This is unambiguous surveillance which can and has been easily abused. 
+          The best way to avoid abuse is to prevent systems which provide the opportunity for such abuse.
+  p3:
+    heading: "Supporting Organizations"
+    content:
+      - text: |
+          If you're seeing this page, that means your organization has the opportunity
+          to join in supporting our efforts to de-Flock Fairfax. Take a stand and fight
+          back against unchecked surveillance that hurts you and your neighbors!
+    logos:
+      - text: Your Org Here
+        link: https://www.deflockfairfax.com
+      - text: Your Org Here
+        link: https://www.deflockfairfax.com
+      - text: Your Org Here
+        link: https://www.deflockfairfax.com
+      - text: Your Org Here
+        link: https://www.deflockfairfax.com
+      - text: Your Org Here
+        link: https://www.deflockfairfax.com
+      - text: Your Org Here
+        link: https://www.deflockfairfax.com
+  p4:
+    heading: "Recent Posts"
+  p5:
+    heading: "Stay Informed"
+    content:
+      - text: "Keep up to date with efforts to stop unchecked spying in our community."
+    label: "Email address"
+    placeholder: "Enter your email"
+    button: "Notify me"
+
+  social_media:
+    github:
+      enabled: false
+      url: 'https://github.com/nusserstudios'
+    facebook:
+      enabled: false
+      url: 'https://facebook.com/nusserstudios'
+    instagram:
+      enabled: false
+      url: 'https://instagram.com/nusserstudios'
+    twitter:
+      enabled: false
+      url: 'https://twitter.com/nusserstudios'
+    
+menu:
+  main:
+    - identifier: faq
+      name: FAQ
+      url: /faq/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /categories/blog/
+      weight: 20
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+  footer:
+    - identifier: faq
+      name: FAQ
+      url: /faq/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /categories/blog/
+      weight: 20
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: true
+    simple: false
+  x:
+    disable: true
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: true
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.148.2"
+
+# Performance optimizations
+caches:
+  assets:
+    dir: :cacheDir/assets
+    maxAge: "0s" # Disable caching in development
+  getcsv:
+    dir: :cacheDir/getcsv
+    maxAge: 3600s # 1 hour
+  getjson:
+    dir: :cacheDir/getjson
+    maxAge: 3600s # 1 hour
+  images:
+    dir: :cacheDir/images
+    maxAge: 8760h # 1 year
+  modules:
+    dir: :cacheDir/modules
+    maxAge: 8760h # 1 year
+
+# Image processing defaults
+imaging:
+  quality: 85
+  resampleFilter: lanczos
+  anchor: smart

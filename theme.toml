@@ -1,0 +1,19 @@
+name = "DE-FLOCK FAIRFAX"
+license = "Apache-2.0"
+licenselink = "https://github.com/nusserstudios/tailbliss/blob/main/LICENSE"
+description = "De-Flock Fairfax"
+
+# The home page of the theme, where the source can be found.
+homepage = "https://github.com/nusserstudios/tailbliss"
+
+# If you have a running demo of the theme.
+demosite = "https://tailbliss.netlify.app/"
+
+tags = ["blog", "tailwind", "tailwindcss", "dark", "light", "responsive", "minimal", "portfolio", "company", "gallery", "personal" ]
+features = ["blog", "categories", "webp", "tailwind3", "alpinejs"]
+
+min_version = "0.148.2buil"
+
+# If the theme has a single author
+[author]
+    name = "Matthew Lofgren"
