@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => ({
     // Output to Hugo's theme static directory
     outDir: 'static/css',
     // Clear only the output directory
-    emptyOutDir: true,
+    emptyOutDir: false,
     // Don't copy public directory
     copyPublicDir: false,
 
