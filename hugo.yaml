@@ -148,8 +148,8 @@ params:
 
   social_media:
     github:
-      enabled: false
-      url: 'https://github.com/nusserstudios'
+      enabled: true
+      url: 'https://github.com/Tolkiennerd/DeFlockFairfax'
     facebook:
       enabled: false
       url: 'https://facebook.com/nusserstudios'
