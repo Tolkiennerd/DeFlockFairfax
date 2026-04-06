@@ -110,6 +110,10 @@ params:
           ALPRs have created many false alerts that resulted in innocent people, including children and families, [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
           Officers have used Flock data to stalk their [ex-partners](https://web.archive.org/web/20230617100257/https://stpp.fordschool.umich.edu/news/2023/automated-license-plate-readers-widely-used-subject-abuse).
       - text: |
+          [Flock's security is abysmal](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/).
+          Several cameras upload to the internet unencrypted, allowing anyone to observe people at markets, joggers on trails, and children at playgrounds.
+          [Russian hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/) gained access to Flock footage because Flock doesn't require basic security measures.
+      - text: |
           Police departments collect Flock data without warrants. Officers have been told to "[be as vague as permissible](https://www.404media.co/police-told-to-be-as-vague-as-permissible-about-why-they-use-flock/)"
           for why they are using Flock. Virginia police have issued [thousands of searches](https://vcij.org/stories/virginia-police-search-vehicle-surveillance-data-247-why-isnt-always-clear)
           with vague, one-word justifications such as "suspect," "suspicious," or even "123." 
