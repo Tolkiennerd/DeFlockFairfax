@@ -124,22 +124,32 @@ params:
     heading: "Supporting Organizations"
     content:
       - text: |
-          If you're seeing this page, that means your organization has the opportunity
-          to join in supporting our efforts to de-Flock Fairfax. Take a stand and fight
-          back against unchecked surveillance that hurts you and your neighbors!
+          These churches, activist groups, and nonprofits agree that Fairfax County should de-Flock.
+          If you're part of an organization that would be interested in signing on, please [reach out](/contact).
+          Take a stand and fight back against unchecked surveillance that hurts you and your neighbors!
     logos:
-      - text: Your Org Here
-        link: https://www.deflockfairfax.com
-      - text: Your Org Here
-        link: https://www.deflockfairfax.com
-      - text: Your Org Here
-        link: https://www.deflockfairfax.com
-      - text: Your Org Here
-        link: https://www.deflockfairfax.com
-      - text: Your Org Here
-        link: https://www.deflockfairfax.com
-      - text: Your Org Here
-        link: https://www.deflockfairfax.com
+      - text: Congregation Action Network
+        link: https://www.congregationactionnetwork.org/
+      - text: Centreville Immigration Forum
+        link: https://centrevilleimmigrationforum.org/
+      - text: Libertarian Party of Northern Virginia
+        link: https://www.lpnova.org/
+        # img:
+        #   src: /images/lpnova.webp
+        #   height: 3rem
+        #   width: 1.5rem
+      - text: Institute for Secure Activism
+        link: https://secureactivism.org/
+        # img:
+        #   src: /images/secureactivism.webp
+        #   height: 3rem
+        #   width: 3rem
+      - text: Herndon Friends Meeting
+        link: https://herndonfriendsmeeting.org/
+      # - text: ICE Out of Fairfax
+      #   link: https://www.instagram.com/iceoutoffairfax/
+      # - text: New Virginia Majority
+      #   link: https://www.newvirginiamajority.org/
   p4:
     heading: "Recent Posts"
   p5:

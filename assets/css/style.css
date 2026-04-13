@@ -2817,6 +2817,10 @@ video {
   max-width: 80rem;
 }
 
+.max-w-10xl {
+  max-width: 120rem;
+}
+
 .max-w-full {
   max-width: 100%;
 }
@@ -4757,6 +4761,10 @@ EmojiSymbols;
 
   .lg\:max-w-7xl {
     max-width: 80rem;
+  }
+
+  .lg\:max-w-10xl {
+    max-width: 120rem;
   }
 
   .lg\:max-w-none {
