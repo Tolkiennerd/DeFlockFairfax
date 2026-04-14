@@ -134,22 +134,12 @@ params:
         link: https://centrevilleimmigrationforum.org/
       - text: Libertarian Party of Northern Virginia
         link: https://www.lpnova.org/
-        # img:
-        #   src: /images/lpnova.webp
-        #   height: 3rem
-        #   width: 1.5rem
       - text: Institute for Secure Activism
         link: https://secureactivism.org/
-        # img:
-        #   src: /images/secureactivism.webp
-        #   height: 3rem
-        #   width: 3rem
       - text: Herndon Friends Meeting
         link: https://herndonfriendsmeeting.org/
-      # - text: ICE Out of Fairfax
-      #   link: https://www.instagram.com/iceoutoffairfax/
-      # - text: New Virginia Majority
-      #   link: https://www.newvirginiamajority.org/
+      - text: Little River United Church of Christ
+        link: https://www.lrucc.org/
   p4:
     heading: "Recent Posts"
   p5:
