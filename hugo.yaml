@@ -124,7 +124,7 @@ params:
     heading: "Supporting Organizations"
     content:
       - text: |
-          These churches, activist groups, and nonprofits agree that Fairfax County should de-Flock.
+          These churches, activist groups, and nonprofits agree that FCPD should terminate its contract with Flock and any other ALPR vendor.
           If you're part of an organization that would be interested in signing on, please [reach out](/contact).
           Take a stand and fight back against unchecked surveillance that hurts you and your neighbors!
     logos:
@@ -140,6 +140,8 @@ params:
         link: https://herndonfriendsmeeting.org/
       - text: Little River United Church of Christ
         link: https://www.lrucc.org/
+      - text: ICE Out of Fairfax
+        link: https://www.instagram.com/iceoutoffairfax/
   p4:
     heading: "Recent Posts"
   p5:
