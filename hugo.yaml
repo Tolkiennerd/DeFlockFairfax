@@ -62,8 +62,8 @@ params:
     content:
       - text: |
           In 2023, the Fairfax County Police Department began using [Flock Safety License Plate Readers](https://www.ffxnow.com/2023/11/21/county-approves-funds-to-expand-fcpds-automatic-license-plate-reader-program/). 
-          Unlike normal traffic cameras, automated license plate readers (ALPRs) [continually monitor](https://www.aclu-or.org/know-your-tech-flock/)
-          all traffic to uniquely profile each vehicle and create an easily searchable history of its movements [without a warrant](https://www.13newsnow.com/article/news/local/mycity/norfolk/virginia-appeals-court-norfolk-police-flock-camera-data/291-0dded2ca-98a1-42a7-98a5-67ce9a4ccc19).
+          Unlike normal traffic cameras, automated license plate readers (ALPRs) [continually monitor](https://www.aclu.org/wp-content/uploads/publications/flock_1.pdf)
+          all traffic to uniquely profile every passing vehicle and create an easily searchable history of its movements [without a warrant](https://www.13newsnow.com/article/news/local/mycity/norfolk/virginia-appeals-court-norfolk-police-flock-camera-data/291-0dded2ca-98a1-42a7-98a5-67ce9a4ccc19).
           Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
       - text: |
           - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
@@ -142,6 +142,10 @@ params:
         link: https://www.lrucc.org/
       - text: ICE out of Fairfax
         link: https://www.instagram.com/iceoutoffairfax/
+      - text: Fairfax for Palestine
+        link: https://www.instagram.com/fairfax4palestine/
+      - text: Daniels Run Peace Church
+        link: https://danielsrunpeacechurch.org/
       - text: Indivisible NOVA West
         link: https://www.indivisiblenovawest.org/home
   p4:

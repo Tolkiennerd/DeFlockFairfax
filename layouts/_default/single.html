@@ -35,6 +35,11 @@
           <iframe class="full-youtube" src="{{ . }}"></iframe>
         </div>
       {{ end }}
+      {{ with .Params.embedElement }}
+        <div>
+          {{ . | safeHTML }}
+        </div>
+      {{ end }}
     </div>
   </article>
 </main>
