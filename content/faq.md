@@ -32,7 +32,7 @@ Flock cameras have been used to:
 - Stalk police officers' [ex-partners](https://web.archive.org/web/20230617100257/https://stpp.fordschool.umich.edu/news/2023/automated-license-plate-readers-widely-used-subject-abuse).
 
 ### Have Flock cameras been abused in Fairfax county?
-Yes, Flock cameras in Fairfax county have been used by ICE to [track undocumented immigrants]((https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass)).
+Yes, Flock cameras in Fairfax county have been used by ICE to [track undocumented immigrants](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass).
 
 ### Is FCPD conducting Flock searches on undocumented immigrants?
 No, but since FCPD has shared the data from its Flock cameras with other agencies (and those agencies share with others), federal immigration agencies had access to FCPD Flock footage.
@@ -46,7 +46,9 @@ There is no data to suggest FCPD is breaking this law. But even if FCPD limits i
 The Crime Commission's report did not say.
 
 ### But won't Flock cameras make police officers' jobs easier?
-Flock has made an [unethical study]((https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/)) overblowing its own usefulness for crime prevention. It is of course easier for a police officer to find information without needing a warrant. But unchecked surveillance poses a greater safety risk than the supposed benefits. Those safety risks always start with our most vulnerable neighbors, such as our vital immigrant community.
+Flock has made a [methodologically flawed study](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/) overblowing its own usefulness for crime prevention. According to a researcher who oversaw the study, the data is "too varied and incomplete for meaningful statistical analysis."  
+
+It is of course easier for a police officer to find information without needing a warrant. But unchecked surveillance poses a greater safety risk than the supposed benefits. Those safety risks always start with our most vulnerable neighbors, such as our vital immigrant community.
 
 ### What is your goal?
 For FCPD to terminate its contract with Flock and any ALPR vendor.
