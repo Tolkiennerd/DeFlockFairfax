@@ -9,11 +9,11 @@ description: Several concerned citizens voiced their opposition to Flock's invas
 categories: Blog
 tags: post
 address: budget-hearing
-embedElement: |
-    <video class="full-youtube" controls>
-        <source src="/videos/budget-hearing.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+# embedElement: |
+#     <video class="full-youtube" controls>
+#         <source src="/videos/budget-hearing.mp4" type="video/mp4">
+#         Your browser does not support the video tag.
+#     </video>
 ---
 
 On April 16, 2026, the Fairfax County Board of Supervisors heard spoken testimonies from residents about the FY 2027 advertised budget. During this meeting, several citizens spoke in opposition to Flock cameras. The full budget hearing with all speakers can be found [here](https://video.fairfaxcounty.gov/player/clip/4124?view_id=7&redirect=true).
