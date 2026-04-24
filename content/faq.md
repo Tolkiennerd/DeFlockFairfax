@@ -15,7 +15,7 @@ vehicle traffic and perform data analysis on each vehicle to uniquely identify a
 track it across the ALPR network.
 
 ### Do other companies sell ALPRs?
-Yes, Fairfax County also has a contract with Axon, which sells an ALPR product called Fleet 3. Axon also sells many non-ALPR products as part of its contract. We would like the contract amended to remove Axon Fleet 3 products.  
+Yes, Fairfax County also has a contract with Axon, which sells an ALPR product called Fleet 3. Axon also sells many non-ALPR products as part of its contract. We would like the contract amended to remove Axon Fleet 3.  
 
 ### Why are ALPRs different than other traffic cameras?
 Speed cameras and red light cameras do not constantly run. They are triggered by specific traffic violations. CCTV footage is only accessible by the owner of the CCTV camera.  
