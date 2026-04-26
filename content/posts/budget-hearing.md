@@ -25,6 +25,12 @@ The Oshkosh, Wisconsin city council [voted unanimously to end its contract](http
 
 This is just [another example](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0) of how Flock has lied about the full extent of its product's capabilities to spy on ordinary people.  
 
+### Innocent Colorado Man Targeted Over and Over By Flock
+
+A Colorado man was pulled over by police because they thought he had a warrant on his vehicle. He didn't, so they released him. A few days later, the same thing happened. This is because Flock cameras confused the letter O and the number zero on his license plate. Now, since Flock cameras are all over his town, [he feels unsafe](https://www.9news.com/article/news/local/rime-flock-cam-pulled-over/73-e3f65018-32a5-4bb0-a4ac-26fb24dc9a15).  
+
+"I don't know if I'm going to be pulled over with my family," he said. "I don't know what this guy did to get a warrant. I don't really know what the police response is gonna be."  
+
 ### Fairfax Residents Speak Out Against Flock
 
 On April 16, 2026, the Fairfax County Board of Supervisors heard spoken testimonies from residents about the FY 2027 advertised budget. During this meeting, several citizens spoke in opposition to Flock cameras. The full budget hearing with all speakers can be found [here](https://video.fairfaxcounty.gov/player/clip/4124?view_id=7&redirect=true).  
