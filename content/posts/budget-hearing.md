@@ -4,8 +4,8 @@ date: 2026-04-17T09:35:03-04:00
 draft: false
 language: en
 featured_image: ../assets/images/featured/budget-hearing.png
-summary: Fairfax residents voiced their opposition to Flock's invasive surveillance at the FY 2027 Fairfax County Budget Hearing. The Cato Institute requests courts to reverse a decision that Flock cameras do not constitute a Fourth Amendment search. Flock was caught lying at a town council meeting.  
-description: Fairfax residents voiced their opposition to Flock's invasive surveillance at the FY 2027 Fairfax County Budget Hearing. The Cato Institute requests courts to reverse a decision that Flock cameras do not constitute a Fourth Amendment search. Flock was caught lying at a town council meeting.  
+summary: Fairfax residents voiced their opposition to Flock's invasive surveillance at the FY 2027 Fairfax County Budget Hearing. Flock was caught lying at a Wisconsin town council meeting.  
+description: Fairfax residents voiced their opposition to Flock's invasive surveillance at the FY 2027 Fairfax County Budget Hearing. Flock was caught lying at a Wisconsin town council meeting.  
 categories: Blog
 tags: post
 address: budget-hearing
