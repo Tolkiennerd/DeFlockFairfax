@@ -17,7 +17,7 @@ embedElement: |
 
 Residents of Norfolk, Virginia sued their city under Fourth Amendment grounds over its usage of Flock cameras to perform warrantless searches on their daily movements. The court dismissed the case in a decision that allows police to continue their invasive surveillance practices.  
 
-This decision has been [criticzed](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches) by the Cato Institute, a libertarian think tank. Cato has requested the Fourth Circuit Court of Appeals to reverse a decision that Flock cameras do not constitute a Fourth Amendment search.  
+This decision has been [criticized](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches) by the Cato Institute, a libertarian think tank. Cato has requested the Fourth Circuit Court of Appeals to reverse a decision that Flock cameras do not constitute a Fourth Amendment search.  
 
 ### Flock Caught Lying...Again
 
