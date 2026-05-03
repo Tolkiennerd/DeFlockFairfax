@@ -95,6 +95,8 @@ params:
           [Other Virginia police departments](https://www.wvtf.org/news/2026-01-15/charlottesville-and-staunton-cancel-license-plate-reading-technology) have terminated their Flock contracts. 
           It's time for Fairfax County to follow suit. 
           It's time to de-Flock.
+      - text: |
+          [Ask the Fairfax County Board of Supervisors to remove Flock cameras&nbsp;&rarr; ](/take-action)
   p2:
     heading: "Flock Doesn't Make Us Safer"
     image: "images/pages/lpr-demo.webp"
@@ -128,8 +130,14 @@ params:
           If you're part of an organization that would be interested in signing on, please [reach out](/contact).
           Take a stand and fight back against unchecked surveillance that hurts you and your neighbors!
     logos:
+      - text: CASA
+        link: https://wearecasa.org/
+      - text: Indivisible NOVA West
+        link: https://www.indivisiblenovawest.org/home
       - text: Congregation Action Network
         link: https://www.congregationactionnetwork.org/
+      - text: New Virginia Majority
+        link: https://www.newvirginiamajority.org/
       - text: Centreville Immigration Forum
         link: https://centrevilleimmigrationforum.org/
       - text: Libertarian Party of Northern Virginia
@@ -144,12 +152,6 @@ params:
         link: https://www.instagram.com/iceoutoffairfax/
       - text: Institute for Secure Activism
         link: https://secureactivism.org/
-      - text: New Virginia Majority
-        link: https://www.newvirginiamajority.org/
-      - text: CASA
-        link: https://wearecasa.org/
-      - text: Indivisible NOVA West
-        link: https://www.indivisiblenovawest.org/home
   p4:
     heading: "Recent Posts"
   p5:
@@ -188,6 +190,10 @@ menu:
       name: Resources
       url: /resources/
       weight: 30
+    - identifier: take-action
+      name: Take Action
+      url: /take-action/
+      weight: 35
     - identifier: contact
       name: Contact
       url: /contact/
@@ -205,6 +211,10 @@ menu:
       name: Resources
       url: /resources/
       weight: 30
+    - identifier: take-action
+      name: Take Action
+      url: /take-action/
+      weight: 35
     - identifier: contact
       name: Contact
       url: /contact/
