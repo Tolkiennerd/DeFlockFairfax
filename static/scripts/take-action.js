@@ -34,6 +34,11 @@ function initializeNameInput() {
 const showEmailTemplate = () => {
     const name = getName();
     const supervisor = getSupervisor();
+    if (supervisor === "select" || name === "") {
+        hideMessage();
+        return;
+    }
+
     populateEmail(name, supervisor);
     showMessage();
 }
@@ -127,7 +132,7 @@ I urge the Board of Supervisors to remove Flock cameras. Thank you for your time
             break;
         case "select":
             hideMessage();
-            break;
+            return;
         default:
             return;
     }    
@@ -139,7 +144,6 @@ I urge the Board of Supervisors to remove Flock cameras. Thank you for your time
         <strong>If this button doesn't open your email client with the above message:</strong><br>
         Copy/paste this message into your email and send it to your District Supervisor at <a href="mailto:${emailRecipient}">${emailRecipient}</a>.
     `;
-    
 }
 
 const showMessage = () => {
