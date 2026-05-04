@@ -36,11 +36,11 @@ Finally, enter your name to auto-populate the email template.
 <button class="cta-button" id="generate-email" onclick="showEmailTemplate();">GENERATE EMAIL</button>
 
 <div class="hide" id="send-message-div">
-  <p>Use this template to email your District Supervisor. Personalize it to add stronger emphasis based on your personal perspective.</p>
+  <p>Use this template to email your District Supervisor. Personalize it to add stronger emphasis based on your own perspective.</p>
   
   <textarea name="body" class="cta-textbox" id="email-template" rows=20 style="width: 100%"></textarea>
 
   <button id="send-email-button" class="cta-button" onclick="sendEmail()">Send Email</button>
   
-  <div id="fallback-message"></div>
+  <div id="fallback-message" style="margin-bottom: 10px; padding: 10px; border-left: 4px solid #007bff; font-size: 0.9em;"></div>
 </div>
