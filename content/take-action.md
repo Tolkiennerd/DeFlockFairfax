@@ -31,7 +31,7 @@ Next, select your District Supervisor from the dropdown.
 
 Finally, enter your name to auto-populate the email template.
 
-<input class="cta-textbox" id="email-template-name">
+<input class="cta-textbox" id="email-template-name" placeholder="Your full name...">
 
 <button class="cta-button" id="generate-email" onclick="showEmailTemplate();">GENERATE EMAIL</button>
 

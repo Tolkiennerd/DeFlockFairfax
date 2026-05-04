@@ -225,6 +225,11 @@ embed.full-youtube {
   box-shadow: 0 0 0 3px rgba(71, 53, 207, 0.1);
 }
 
+.cta-textbox::placeholder {
+  font-weight: 100;
+  font-style: italic;
+}
+
 .dark .cta-textbox {
   background-color: var(--color-zinc-800);
   color: var(--color-zinc-100);
