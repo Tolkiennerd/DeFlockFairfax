@@ -84,7 +84,7 @@ Virginia passed a law regulating Flock cameras, but the Virginia State Crime Com
 
 Other Virginia police departments have removed their Flock cameras. As Charlottesville city council member Michael Payne said, \"It's a huge problem to have a privately-owned company building a national surveillance system of vehicles and vehicle locations.\"
 
-I urge the Board of Supervisors to remove Flock cameras. Further information and sources can be found at deflockfairfax.com. Thank you for your time and consideration.`;
+I urge the Board of Supervisors to remove Flock cameras. Thank you for your time and consideration.`;
 
     let greeting = "";
     let districtText = "";
