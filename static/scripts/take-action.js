@@ -45,6 +45,7 @@ const showEmailTemplate = () => {
 
 const sendEmail = () => {
     // Get email body.
+    const textarea = document.getElementById('email-template');
     let userEditedBody = textarea.value;
     if (!userEditedBody.trim()) {
         alert("The email body cannot be empty.");
