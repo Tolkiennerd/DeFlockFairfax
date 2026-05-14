@@ -74,12 +74,12 @@ params:
           When FCPD started using ALPRs, it [claimed](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
           did "not share information to federal authorities regarding their investigations into immigration enforcement." 
       - text: |
-          However, audits show Flock cameras were used in many [immigration-related cases](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) in Fairfax county.
-          Of all immigration-related searches in Virginia, over half of them took place in Fairfax county.
-          Capt. Jesse Katzman said FCPD officers did not conduct these searches but this could have happened because "We share our license plate reader system with 13 other agencies."
-          A document revealed from a FOIA request shows that FCPD actually shares its Flock data with [over 160 agencies](/documents/LPRAgencySharing.pdf).
+          However, a [VPM article](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) reported that audits taken between June 2024 and April 2025 reveal Flock cameras from Fairfax County were used in over half of all immigration-related Flock searches in Virginia.
+          A representative from Fairfax County denies this.
+          In the same article, Capt. Jesse Katzman was quoted saying FCPD officers did not conduct these searches, but this could have happened because "We share our license plate reader system with 13 other agencies."
+          A FOIA request revealed that FCPD currently shares its Flock data with [over 160 agencies](/documents/LPRAgencySharing.pdf).
       - text: |
-          In response to these concerns, Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
+          Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
           In 2026, the Crime Commission released [police departments' self-reported Flock usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
           A third of departments didn't respond. Of the respondents using ALPRs:
       - text: |
@@ -88,7 +88,8 @@ params:
           - 21% keep data longer than 21 days, in violation of the law.
           - 13% share continuous ALPR data with out-of-state agencies, in violation of the law.
           - 6% share continuous ALPR data with federal agencies, in violation of the law.
-          - The report did not say which departments broke the law.
+          - The report didn't say which departments broke the law.
+          - The report didn't indicate any departments would face consequences.
       - text: |
           Flock [admitted to lying](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0) about sending data to immigration enforcement.
           Regulating Flock has failed, and its lawful usage relies on broken promises from the company itself.
