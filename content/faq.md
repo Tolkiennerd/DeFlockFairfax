@@ -51,7 +51,7 @@ Flock has made a [methodologically flawed study](https://www.404media.co/researc
 It is of course easier for a police officer to find information without needing a warrant. But unchecked surveillance poses a greater safety risk than the supposed benefits. Those safety risks always start with our most vulnerable neighbors, such as our vital immigrant community.
 
 ### What is your goal?
-For FCPD to terminate its contract with Flock and any ALPR vendor.
+For Fairfax County to amend its existing contracts to remove automated license plate reader systems, specifically [contract 4400012268](https://www.fairfaxcounty.gov/cregister/ContractDetails.aspx?contractNumber=4400012268) and [contract 4400013234](https://www.fairfaxcounty.gov/cregister/ContractDetails.aspx?contractNumber=4400013234).
 
 ### How can I help?
 Sign up for our [newsletter](/#newsletter)! If you represent an organization, consider adding your support to this cause. Right now, we're building support so we can show the Fairfax County Board of Supervisors that this is an issue that concerns our community.

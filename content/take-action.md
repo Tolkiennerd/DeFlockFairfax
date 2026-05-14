@@ -3,11 +3,12 @@ title: "Take Action"
 date: 2026-05-02T17:45:25-04:00
 language: en
 description: Take Action
+draft: true
 ---
 
 <script src="/scripts/take-action.js"></script>
 
-**Tell the Fairfax County Board of Supervisors that surveillance cameras in our communities betray public trust and put our neighbors at risk of ICE's cruel immigration crackdown.**  
+**Tell the Fairfax County Board of Supervisors that mass surveillance betrays public trust and puts our neighbors at risk.**  
 
 Click below to find your District Supervisor. On the map that shows up, enter your address and view the details in the left-hand panel.
 
@@ -44,3 +45,5 @@ Finally, enter your name to auto-populate the email template.
   
   <div id="fallback-message" style="margin-bottom: 10px; padding: 10px; border-left: 4px solid #007bff; font-size: 0.9em;"></div>
 </div>
+
+**Want to join our team? [Reach out](/contact) to learn more!**

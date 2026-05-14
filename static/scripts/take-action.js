@@ -74,17 +74,17 @@ const populateEmail = (name, supervisor) => {
         return;
     }
 
-    const emailBody = `I request that Fairfax County remove its Flock cameras. Contract 4400012268 with Insight Public Sector should be amended to remove Flock Camera Systems and related Flock Group Inc. goods and services.
+    const emailBody = `I request that Fairfax County remove its automated license plate reader (ALPR) systems. Including but not limited to, amending contract 4400012268 with Insight Public Sector to remove Flock Camera Systems and amending contract 4400013234 with Axon Enterprises Inc. to remove Axon Fleet 3 products.
 
-Flock cameras are an invasion of civil liberties because they monitor all traffic to uniquely profile each vehicle and create a history of its movements without a warrant.
+ALPRs are an invasion of civil liberties because they monitor all traffic to uniquely profile each vehicle and create a history of its movements without a warrant.
 
-Across the country, Flock cameras have been used to spy on immigrants, No Kings protesters, police officers' ex-girlfriends, and a Texas woman getting an abortion. False positives from Flock's cameras have resulted in innocent people and families held at gunpoint. Russian hackers have acquired Flock camera footage. ICE uses Flock data. Of all immigration-related Flock searches in Virginia, over half occurred in Fairfax County. Even if FCPD doesn't give ICE this data, ICE can access our neighbors' data from any of the 160+ agencies we share with.
+Across the country, ALPRs have been used to spy on immigrants, No Kings protesters, police officers' ex-girlfriends, and a Texas woman getting an abortion. False positives from ALPRs have resulted in innocent people and families held at gunpoint. Russian hackers have acquired ALPR footage. ICE uses ALPR data. Of all immigration-related ALPR searches in Virginia, over half occurred in Fairfax County. Even if FCPD doesn't give ICE this data, ICE can access our neighbors' data from any of the 160+ agencies we share with.
 
-Virginia passed a law regulating Flock cameras, but the Virginia State Crime Commission reported that police departments broke the law. The report didn't say which departments broke the law, and no departments faced consequences for operating Flock cameras illegally.
+Virginia passed a law regulating ALPRs, but the Virginia State Crime Commission reported that police departments broke the law. The report didn't say which departments broke the law, and no departments faced consequences for operating Flock cameras illegally.
 
-Other Virginia police departments have removed their Flock cameras. As Charlottesville city council member Michael Payne said, \"It's a huge problem to have a privately-owned company building a national surveillance system of vehicles and vehicle locations.\"
+Other Virginia police departments have removed their ALPRs. As Charlottesville city council member Michael Payne said, \"It's a huge problem to have a privately-owned company building a national surveillance system of vehicles and vehicle locations.\"
 
-I urge the Board of Supervisors to remove Flock cameras. Thank you for your time and consideration.`;
+I urge the Board of Supervisors to remove ALPRs. Further information and sources are available at deflockfairfax.com. Thank you for your time and consideration.`;
 
     let greeting = "";
     let districtText = "";

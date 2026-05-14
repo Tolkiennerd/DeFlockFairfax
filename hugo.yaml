@@ -77,6 +77,7 @@ params:
           However, audits show Flock cameras were used in many [immigration-related cases](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) in Fairfax county.
           Of all immigration-related searches in Virginia, over half of them took place in Fairfax county.
           Capt. Jesse Katzman said FCPD officers did not conduct these searches but this could have happened because "We share our license plate reader system with 13 other agencies."
+          A document revealed from a FOIA request shows that FCPD actually shares its Flock data with [over 160 agencies](/documents/LPRAgencySharing.pdf).
       - text: |
           In response to these concerns, Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
           In 2026, the Crime Commission released [police departments' self-reported Flock usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
@@ -95,8 +96,8 @@ params:
           [Other Virginia police departments](https://www.wvtf.org/news/2026-01-15/charlottesville-and-staunton-cancel-license-plate-reading-technology) have terminated their Flock contracts. 
           It's time for Fairfax County to follow suit. 
           It's time to de-Flock.
-      - text: |
-          [Ask the Fairfax County Board of Supervisors to remove Flock cameras&nbsp;&rarr; ](/take-action)
+      # - text: |
+      #     [Ask the Fairfax County Board of Supervisors to remove Flock cameras&nbsp;&rarr; ](/take-action)
   p2:
     heading: "Flock Doesn't Make Us Safer"
     image: "images/pages/lpr-demo.webp"
@@ -126,28 +127,30 @@ params:
     heading: "Supporting Organizations"
     content:
       - text: |
-          These churches, activist groups, and nonprofits agree that FCPD should terminate its contract with Flock and any other ALPR vendor.
+          These churches, activist groups, and nonprofits agree that Fairfax County should amend its contracts to remove ALPR systems.
           If you're part of an organization that would be interested in signing on, please [reach out](/contact).
           Take a stand and fight back against unchecked surveillance that hurts you and your neighbors!
     logos:
-      - text: CASA
-        link: https://wearecasa.org/
       - text: Indivisible NOVA West
         link: https://www.indivisiblenovawest.org/home
+      - text: CASA
+        link: https://wearecasa.org/
       - text: Congregation Action Network
         link: https://www.congregationactionnetwork.org/
-      - text: New Virginia Majority
-        link: https://www.newvirginiamajority.org/
       - text: Centreville Immigration Forum
         link: https://centrevilleimmigrationforum.org/
+      - text: New Virginia Majority
+        link: https://www.newvirginiamajority.org/
       - text: Libertarian Party of Northern Virginia
         link: https://www.lpnova.org/
-      - text: Daniels Run Peace Church
-        link: https://danielsrunpeacechurch.org/
       - text: Herndon Friends Meeting
         link: https://herndonfriendsmeeting.org/
+      - text: Daniels Run Peace Church
+        link: https://danielsrunpeacechurch.org/
       - text: Little River United Church of Christ
         link: https://www.lrucc.org/
+      - text: Justice Forward Virginia
+        link: https://www.justiceforwardvafoundation.org/
       - text: ICE out of Fairfax
         link: https://www.instagram.com/iceoutoffairfax/
       - text: Institute for Secure Activism
@@ -190,10 +193,10 @@ menu:
       name: Resources
       url: /resources/
       weight: 30
-    - identifier: take-action
-      name: Take Action
-      url: /take-action/
-      weight: 35
+    # - identifier: take-action
+    #   name: Take Action
+    #   url: /take-action/
+    #   weight: 35
     - identifier: contact
       name: Contact
       url: /contact/
@@ -211,10 +214,10 @@ menu:
       name: Resources
       url: /resources/
       weight: 30
-    - identifier: take-action
-      name: Take Action
-      url: /take-action/
-      weight: 35
+    # - identifier: take-action
+    #   name: Take Action
+    #   url: /take-action/
+    #   weight: 35
     - identifier: contact
       name: Contact
       url: /contact/
