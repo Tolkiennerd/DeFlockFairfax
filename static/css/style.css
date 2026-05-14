@@ -55,3 +55,193 @@ embed.full-youtube {
   width: 100%;
   aspect-ratio: 4/3;
 }
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
+/* CTA Button - Find Supervisor */
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background-color: var(--color-primary-600);
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.cta-button:hover {
+  background-color: var(--color-primary-700);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.cta-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dark .cta-button {
+  background-color: var(--color-primary-500);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.dark .cta-button:hover {
+  background-color: var(--color-primary-400);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Custom CSS end */
+
+
+/* CTA Button - Find Supervisor */
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background-color: var(--color-primary-600);
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.cta-button:hover {
+  background-color: var(--color-primary-700);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.cta-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dark .cta-button {
+  background-color: var(--color-primary-500);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.dark .cta-button:hover {
+  background-color: var(--color-primary-400);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Dropdown Select - Supervisor Selection */
+.cta-dropdown {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  padding: 0.875rem 1rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  border: 2px solid var(--color-primary-300);
+  border-radius: 0.5rem;
+  background-color: white;
+  color: var(--color-zinc-900);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%23474fa0' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
+  background-position: right 0.75rem center;
+  background-repeat: no-repeat;
+  background-size: 1.5em 1.5em;
+  padding-right: 2.5rem;
+}
+
+.cta-dropdown:hover {
+  border-color: var(--color-primary-500);
+  box-shadow: 0 4px 8px rgba(71, 53, 207, 0.15);
+}
+
+.cta-dropdown:focus {
+  outline: none;
+  border-color: var(--color-primary-600);
+  box-shadow: 0 0 0 3px rgba(71, 53, 207, 0.1);
+}
+
+.dark .cta-dropdown {
+  background-color: var(--color-zinc-800);
+  color: var(--color-zinc-100);
+  border-color: var(--color-primary-700);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%238b7dd8' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
+}
+
+.dark .cta-dropdown:hover {
+  border-color: var(--color-primary-500);
+  box-shadow: 0 4px 8px rgba(71, 53, 207, 0.3);
+}
+
+.dark .cta-dropdown:focus {
+  border-color: var(--color-primary-400);
+  box-shadow: 0 0 0 3px rgba(71, 53, 207, 0.2);
+}
+
+/* Textbox Input */
+.cta-textbox {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  padding: 0.875rem 1rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  border: 2px solid var(--color-primary-300);
+  border-radius: 0.5rem;
+  background-color: white;
+  color: var(--color-zinc-900);
+  transition: all 0.3s ease;
+  appearance: none;
+  background-position: right 0.75rem center;
+  background-repeat: no-repeat;
+  background-size: 1.5em 1.5em;
+  padding-right: 2.5rem;
+}
+
+.cta-textbox:hover {
+  border-color: var(--color-primary-500);
+  box-shadow: 0 4px 8px rgba(71, 53, 207, 0.15);
+}
+
+.cta-textbox:focus {
+  outline: none;
+  border-color: var(--color-primary-600);
+  box-shadow: 0 0 0 3px rgba(71, 53, 207, 0.1);
+}
+
+.cta-textbox::placeholder {
+  font-weight: 100;
+  font-style: italic;
+}
+
+.dark .cta-textbox {
+  background-color: var(--color-zinc-800);
+  color: var(--color-zinc-100);
+  border-color: var(--color-primary-700);
+}
+
+.dark .cta-textbox:hover {
+  border-color: var(--color-primary-500);
+  box-shadow: 0 4px 8px rgba(71, 53, 207, 0.3);
+}
+
+.dark .cta-textbox:focus {
+  border-color: var(--color-primary-400);
+  box-shadow: 0 0 0 3px rgba(71, 53, 207, 0.2);
+}
