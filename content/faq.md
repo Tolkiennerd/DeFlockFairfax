@@ -25,11 +25,12 @@ ALPRs continually monitor all traffic and perform data collection on this footag
 ### What are some examples of Flock abuse?
 Flock cameras have been used to:
 - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
+- Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
+- Wrongfully target innocent people, including children, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
 - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
 - Track a [Texas woman getting an abortion](https://www.the-independent.com/news/world/americas/crime/texas-abortion-license-plate-camera-b2760411.html).
-- Tell an [innocent citizen](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
-- Incorrectly target innocent people, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
-- Stalk police officers' [ex-partners](https://web.archive.org/web/20230617100257/https://stpp.fordschool.umich.edu/news/2023/automated-license-plate-readers-widely-used-subject-abuse).
+- Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
+
 
 ### Have Flock cameras been abused in Fairfax county?
 Yes, Flock cameras in Fairfax county have been used by ICE to [track undocumented immigrants](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass).

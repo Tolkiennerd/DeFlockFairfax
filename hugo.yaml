@@ -67,17 +67,19 @@ params:
           Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
       - text: |
           - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
+          - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
+          - Wrongfully target innocent people, including children, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
           - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
           - Track a [Texas woman getting an abortion](https://www.the-independent.com/news/world/americas/crime/texas-abortion-license-plate-camera-b2760411.html).
-          - Tell an [innocent citizen](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
+          - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
       - text: |
           When FCPD started using ALPRs, it [claimed](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
           did "not share information to federal authorities regarding their investigations into immigration enforcement." 
       - text: |
-          However, a [VPM article](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) reported that audits taken between June 2024 and April 2025 reveal Flock cameras from Fairfax County were used in over half of all immigration-related Flock searches in Virginia.
-          A representative from Fairfax County denies this.
-          In the same article, Capt. Jesse Katzman was quoted saying FCPD officers did not conduct these searches, but this could have happened because "We share our license plate reader system with 13 other agencies."
-          A FOIA request revealed that FCPD currently shares its Flock data with [over 160 agencies](/documents/LPRAgencySharing.pdf).
+          However, audits from June 2024 to April 2025 reveal Fairfax County Flock cameras were used in [over half of all immigration-related Flock searches](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) in Virginia.
+          A county representative denies this.
+          Capt. Jesse Katzman said FCPD officers did not conduct these searches, but this could have happened because "We share our license plate reader system with 13 other agencies."
+          A FOIA request revealed that FCPD actually shares its Flock data with [over 160 agencies](/documents/LPRAgencySharing.pdf).
       - text: |
           Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
           In 2026, the Crime Commission released [police departments' self-reported Flock usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
@@ -110,9 +112,6 @@ params:
       - text: |
           Contrary to the idea that there is "no expectation of privacy in public," the Supreme Court explicitly [stated](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
           "A person does not surrender all Fourth Amendment protection by venturing into the public sphere."
-      - text: |
-          ALPRs have created many false alerts that resulted in innocent people, including children and families, [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
-          Officers have used Flock data to stalk their [ex-partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
       - text: |
           [Flock's security is abysmal](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/).
           Several cameras upload to the internet unencrypted, allowing anyone to observe people at markets, joggers on trails, and children at playgrounds.
