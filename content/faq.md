@@ -20,7 +20,7 @@ Yes, Fairfax County also has a contract with Axon, which sells an ALPR product c
 ### Why are ALPRs different than other traffic cameras?
 Speed cameras and red light cameras do not constantly run. They are triggered by specific traffic violations. CCTV footage is only accessible by the owner of the CCTV camera.  
 
-ALPRs continually monitor all traffic and perform data collection on this footage to track every vehicle's movements. Police departments frequently share this surveillance data with out-of-state and federal agencies. Those agencies can use that data however they want, without a warrant.
+ALPRs continually monitor all traffic and perform data collection on this footage to track every vehicle's movements. Police departments frequently share this surveillance data with other agencies. These agencies can use that data however they want, without a warrant.
 
 ### What are some examples of Flock abuse?
 Flock cameras have been used to:
@@ -28,22 +28,20 @@ Flock cameras have been used to:
 - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
 - Wrongfully target innocent people, including children, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
 - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
-- Track a [Texas woman getting an abortion](https://www.the-independent.com/news/world/americas/crime/texas-abortion-license-plate-camera-b2760411.html).
 - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
 
-
-### Have Flock cameras been abused in Fairfax county?
-Yes, Flock cameras in Fairfax county have been used by ICE to [track undocumented immigrants](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass).
-
-### Is FCPD conducting Flock searches on undocumented immigrants?
-No, but since FCPD has shared the data from its Flock cameras with other agencies (and those agencies share with others), federal immigration agencies had access to FCPD Flock footage.
+### Is FCPD conducting Flock searches for immigration enforcement?
+It is impossible to verify whether or not FCPD conducts such searches because there are no independent third-party audits of FCPD's Flock searches. It is against FCPD's policy to conduct searches for cases regarding immigration enforcement. However, FCPD shares the data from its Flock cameras with [160+ other agencies](/documents/LPRAgencySharing.pdf) (and those agencies share with others). These other agencies do not have such policies, and their searches also are not independently audited.
 
 ### Why doesn't FCPD simply limit who it shares its Flock data with?
 A [2025 Virginia law](https://lis.virginia.gov/bill-details/20251/HB2724) limits all Virginia police departments from sharing ALPR data with out-of-state and/or federal agencies. However, a [report](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf) from the Crime Commission shows that of the responding police departments using ALPRs, at least 13% share their ALPR data with out-of-state and/or federal agencies.  
 
-There is no data to suggest FCPD is breaking this law. But even if FCPD limits its ALPR data in accordance with the law, if it shares ALPR data with any of those agencies, then the data is still accessible by agencies which should not legally have access. This sort of secondhand access has already resulted in federal [immigration enforcement](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) gaining access to Fairfax Flock data.
+There is no data to suggest FCPD is breaking this law. But even if FCPD limits its ALPR data in accordance with the law, if it shares ALPR data with any of those agencies, then the data is still accessible by agencies which should not legally have access.
 
 ### Which Virginia police departments are breaking the law?
+The Crime Commission's report did not say.
+
+### Will any departments who broke the law face consequences?
 The Crime Commission's report did not say.
 
 ### But won't Flock cameras make police officers' jobs easier?
