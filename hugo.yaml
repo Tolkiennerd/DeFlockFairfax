@@ -70,19 +70,16 @@ params:
           - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
           - Wrongfully target innocent people, including children, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
           - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
-          - Track a [Texas woman getting an abortion](https://www.the-independent.com/news/world/americas/crime/texas-abortion-license-plate-camera-b2760411.html).
           - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
       - text: |
-          When FCPD started using ALPRs, it [claimed](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
-          did "not share information to federal authorities regarding their investigations into immigration enforcement." 
-      - text: |
-          However, audits from June 2024 to April 2025 reveal Fairfax County Flock cameras were used in [over half of all immigration-related Flock searches](https://www.vpm.org/news/2025-07-07/vcij-immigration-enforcement-flock-safety-license-plate-readers-poggenklass) in Virginia.
-          A county representative denies this.
-          Capt. Jesse Katzman said FCPD officers did not conduct these searches, but this could have happened because "We share our license plate reader system with 13 other agencies."
-          A FOIA request revealed that FCPD actually shares its Flock data with [over 160 agencies](/documents/LPRAgencySharing.pdf).
+          FCPD's ALPR policy [states](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
+          does "not share information to federal authorities regarding their investigations into immigration enforcement." 
+          However, it isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are no longer subject to FOIA requests, and there are no independent, third-party audits.
+          Additionally, FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf) 
+          don't have similar policies and whose ALPR searches also cannot be independently audited.
       - text: |
           Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
-          In 2026, the Crime Commission released [police departments' self-reported Flock usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
+          In 2026, the Crime Commission released [police departments' self-reported ALPR usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
           A third of departments didn't respond. Of the respondents using ALPRs:
       - text: |
           - 35% haven't promoted public awareness of ALPR usage, in violation of the law.
@@ -93,7 +90,11 @@ params:
           - The report didn't say which departments broke the law.
           - The report didn't indicate any departments would face consequences.
       - text: |
-          Flock [admitted to lying](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0) about sending data to immigration enforcement.
+          Flock [admitted to lying](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0)
+          about sending data to immigration enforcement.
+          Flock has [lied](https://www.msn.com/en-us/news/us/oshkosh-council-rescinds-flock-camera-contract-after-false-statements/ar-AA21wc5D)
+          to a Wisconsin city council about surveillance features. 
+          Data about our daily movements is entrusted to a private company whose integrity is suspect.
           Regulating Flock has failed, and its lawful usage relies on broken promises from the company itself.
       - text: |
           [Other Virginia police departments](https://www.wvtf.org/news/2026-01-15/charlottesville-and-staunton-cancel-license-plate-reading-technology) have terminated their Flock contracts. 
