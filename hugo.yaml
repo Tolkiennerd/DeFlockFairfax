@@ -69,14 +69,15 @@ params:
           - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
           - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
           - Wrongfully target innocent people, including children, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
+          - Track a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
           - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
           - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
       - text: |
           FCPD's ALPR policy [states](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
           does "not share information to federal authorities regarding their investigations into immigration enforcement." 
-          However, it isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are no longer subject to FOIA requests, and there are no independent, third-party audits.
-          Additionally, FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf) 
-          don't have similar policies and whose ALPR searches also cannot be independently audited.
+          However, it isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are not subject to FOIA requests, and there are no independent audits of ALPR searches.
+          Additionally, FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
+          These agencies can search our cameras however they like, without any accountability.
       - text: |
           Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
           In 2026, the Crime Commission released [police departments' self-reported ALPR usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
