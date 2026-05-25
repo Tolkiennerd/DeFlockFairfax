@@ -27,6 +27,7 @@ Flock cameras have been used to:
 - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
 - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
 - Wrongfully target innocent people, including children, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
+- Track a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
 - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
 - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
 
