@@ -11,6 +11,11 @@ Deflock is an organization dedicated to motivating people to remove Flock camera
 
 [Visit Deflock&nbsp;&rarr;](https://deflock.org)
 
+### When Flock Comes to Your Town
+A very thorough article from CNET about what ALPRs are, how they're abused, and what to do about them.
+
+[Visit CNET&nbsp;&rarr;](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
+
 ### Have I Been Flocked?
 Check if your license plate has appeared in a Flock search at this site.  
 

@@ -68,7 +68,7 @@ params:
       - text: |
           - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
           - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
-          - Wrongfully target innocent people, including children, who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/).
+          - Wrongfully target innocent people who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) or [attacked by a K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
           - Track a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
           - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
           - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
@@ -258,12 +258,12 @@ caches:
   assets:
     dir: :cacheDir/assets
     maxAge: "0s" # Disable caching in development
-  getcsv:
-    dir: :cacheDir/getcsv
-    maxAge: 3600s # 1 hour
-  getjson:
-    dir: :cacheDir/getjson
-    maxAge: 3600s # 1 hour
+  # getcsv:
+  #   dir: :cacheDir/getcsv
+  #   maxAge: 3600s # 1 hour
+  # getjson:
+  #   dir: :cacheDir/getjson
+  #   maxAge: 3600s # 1 hour
   images:
     dir: :cacheDir/images
     maxAge: 8760h # 1 year
