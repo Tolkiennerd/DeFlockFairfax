@@ -175,8 +175,8 @@ params:
       enabled: false
       url: 'https://facebook.com/nusserstudios'
     instagram:
-      enabled: false
-      url: 'https://instagram.com/nusserstudios'
+      enabled: true
+      url: 'https://www.instagram.com/deflockfairfax/'
     twitter:
       enabled: false
       url: 'https://twitter.com/nusserstudios'
