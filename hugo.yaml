@@ -1,5 +1,5 @@
 baseURL: 'https://deflockfairfax.com/'
-title: De-Flock Fairfax
+title: DeFlock Fairfax
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -11,7 +11,7 @@ pagination:
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
-description: De-Flock Fairfax
+description: DeFlock Fairfax
 
 markup:
   goldmark:
@@ -49,11 +49,7 @@ markup:
 
 params:
   og_image: /images/flock-camera-wide.jpg
-  moto: "Unchecked Spying Erodes Your Privacy, Immigrants' Rights, and the Rule of Law"
-  description: |
-    Fairfax County uses automated license plate readers, including Flock.
-    After widespread reports of Flock's privacy invasions and cooperation with ICE, Virginia regulated it.
-    Several departments didn't follow the regulations, so our data is at risk. It's time to de-Flock.
+  moto: "Unchecked Spying Harms Your Privacy, Constitutional Rights, and Immigrant Communities"
   disable_theme_toggle: false
   newsletter_signup: true
 
@@ -112,6 +108,8 @@ params:
           This comes from a study [predominantly written by Flock employees](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/),
           and its other claims about safety have faced [skepticism from academics](https://www.wired.com/story/flock-safety-license-plate-readers-crime/). 
       - text: |
+          The Denver police department canceled its Flock contract, and after the cameras were removed, [auto thefts went down](https://www.9news.com/article/news/local/local-politics/denvers-license-plate-cameras-auto-theft-dropped/73-73295672-9b03-45c2-a4c0-a38355ed84bb). 
+      - text: |
           Contrary to the idea that there is "no expectation of privacy in public," the Supreme Court explicitly [stated](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
           "A person does not surrender all Fourth Amendment protection by venturing into the public sphere."
       - text: |
@@ -135,12 +133,12 @@ params:
     logos:
       - text: Indivisible NOVA West
         link: https://www.indivisiblenovawest.org/home
-      - text: CASA
+      - text: We Are CASA
         link: https://wearecasa.org/
       - text: Congregation Action Network
         link: https://www.congregationactionnetwork.org/
-      - text: Centreville Immigration Forum
-        link: https://centrevilleimmigrationforum.org/
+      - text: Justice Forward Virginia
+        link: https://www.justiceforwardvafoundation.org/
       - text: New Virginia Majority
         link: https://www.newvirginiamajority.org/
       - text: Libertarian Party of Northern Virginia
@@ -151,12 +149,16 @@ params:
         link: https://danielsrunpeacechurch.org/
       - text: Little River United Church of Christ
         link: https://www.lrucc.org/
-      - text: Justice Forward Virginia
-        link: https://www.justiceforwardvafoundation.org/
       - text: ICE out of Fairfax
         link: https://www.instagram.com/iceoutoffairfax/
+      - text: Centreville Immigration Forum
+        link: https://centrevilleimmigrationforum.org/
       - text: Institute for Secure Activism
         link: https://secureactivism.org/
+      - text: Ravensworth Baptist Church
+        link: https://ravensworthbaptist.org/
+      - text: SURJ NOVA
+        link: https://www.surjnova.org/
   p4:
     heading: "Recent Posts"
   p5:
