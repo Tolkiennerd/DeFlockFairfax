@@ -1,7 +1,7 @@
-name = "DE-FLOCK FAIRFAX"
+name = "DEFLOCK FAIRFAX"
 license = "Apache-2.0"
 licenselink = "https://github.com/nusserstudios/tailbliss/blob/main/LICENSE"
-description = "De-Flock Fairfax"
+description = "DeFlock Fairfax"
 
 # The home page of the theme, where the source can be found.
 homepage = "https://github.com/nusserstudios/tailbliss"
