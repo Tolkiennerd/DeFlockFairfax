@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/favicon/cctv-camera.png"/>
+            <square150x150logo src="/favicon/logo.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
