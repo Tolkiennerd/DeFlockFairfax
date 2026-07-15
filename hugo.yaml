@@ -94,7 +94,7 @@ params:
           Data about our daily movements is entrusted to a private company whose integrity is suspect.
           Regulating Flock has failed, and its lawful usage relies on broken promises from the company itself.
       - text: |
-          [Other Virginia police departments](https://www.wvtf.org/news/2026-01-15/charlottesville-and-staunton-cancel-license-plate-reading-technology) have terminated their Flock contracts. 
+          [Other Virginia police departments](/wins) have terminated their Flock contracts. 
           It's time for Fairfax County to follow suit. 
           It's time to de-Flock.
       # - text: |
@@ -174,14 +174,14 @@ params:
       enabled: true
       url: 'https://github.com/Tolkiennerd/DeFlockFairfax'
     facebook:
-      enabled: false
-      url: 'https://facebook.com/nusserstudios'
+      enabled: true
+      url: 'https://www.facebook.com/profile.php?id=61591741912912'
     instagram:
       enabled: true
       url: 'https://www.instagram.com/deflockfairfax/'
     twitter:
-      enabled: false
-      url: 'https://twitter.com/nusserstudios'
+      enabled: true
+      url: 'https://x.com/DeflockFairfax'
     
 menu:
   main:
@@ -189,6 +189,10 @@ menu:
       name: FAQ
       url: /faq/
       weight: 10
+    - identifier: wins
+      name: Wins
+      url: /wins/
+      weight: 15
     - identifier: blog
       name: Blog
       url: /categories/blog/
@@ -210,6 +214,10 @@ menu:
       name: FAQ
       url: /faq/
       weight: 10
+    - identifier: wins
+      name: Wins
+      url: /wins/
+      weight: 15
     - identifier: blog
       name: Blog
       url: /categories/blog/
