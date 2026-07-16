@@ -4,7 +4,7 @@
         <nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
             {{ range site.Menus.footer }}
             <div class="px-5 py-2">
-                <a href="{{ .URL }}" class="text-base text-gray-400 hover:text-gray-300">{{ .Name }}</a>
+                <a href="{{ .URL }}" class="text-base text-gray-400 hover:text-gray-300">{{ i18n (printf "nav_%s" .Identifier) | default .Name }}</a>
             </div>
             {{ end }}
         </nav>
@@ -72,8 +72,7 @@
             {{ end }}
         </div>
         <p class="mt-8 text-base text-center text-gray-400">&copy; {{ now.Format "2006" }}
-            {{ .Site.Title }}. All rights
-            reserved.</p>
+            {{ .Site.Title }}. {{ i18n "footer_rights" }}</p>
     </div>
 </footer>
 

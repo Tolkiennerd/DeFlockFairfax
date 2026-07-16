@@ -1,5 +1,4 @@
 ---
-language: en
 title: "Wins"
 date: 2026-07-15T17:17:57-04:00
 draft: false

@@ -2,7 +2,6 @@
 title: "Residents Speak Against Flock, Cato Disagrees With Norfolk Decision, and Flock Caught Lying...Again"
 date: 2026-04-17T09:35:03-04:00
 draft: false
-language: en
 featured_image: ../assets/images/featured/budget-hearing.png
 summary: Fairfax residents voiced their opposition to Flock's invasive surveillance at the FY 2027 Fairfax County Budget Hearing. Flock was caught lying at a Wisconsin town council meeting.  
 description: Fairfax residents voiced their opposition to Flock's invasive surveillance at the FY 2027 Fairfax County Budget Hearing. Flock was caught lying at a Wisconsin town council meeting.  

@@ -1,0 +1,116 @@
+[lang_switch_label]
+other = "Idioma"
+
+[nav_faq]
+other = "Preguntas Frecuentes"
+
+[nav_wins]
+other = "Logros"
+
+[nav_blog]
+other = "Blog"
+
+[nav_resources]
+other = "Recursos"
+
+[nav_contact]
+other = "Contacto"
+
+[footer_rights]
+other = "Todos los derechos reservados."
+
+[page_not_found_title]
+other = "Vaya, algo no se encuentra."
+
+[page_not_found_desc]
+other = "Lo sentimos, no podemos encontrar esa pagina. Encontrara mucho para explorar en la pagina principal."
+
+[back_to_home]
+other = "Volver a la pagina principal"
+
+[min_read]
+other = "min de lectura"
+
+[tags_label]
+other = "Etiquetas:"
+
+[newsletter_heading]
+other = "Mantengase Informado"
+
+[newsletter_desc]
+other = "Mantengase al dia con los esfuerzos para detener el espionaje descontrolado en nuestra comunidad."
+
+[newsletter_label]
+other = "Correo electronico"
+
+[newsletter_placeholder]
+other = "Ingrese su correo electronico"
+
+[newsletter_button]
+other = "Notificarme"
+
+[contact_intro]
+other = "Contactenos con cualquier pregunta, idea o solicitud! Haganos saber si les gustaria participar mas!"
+
+[contact_name_label]
+other = "Su Nombre:"
+
+[contact_name_placeholder]
+other = "Su nombre aqui"
+
+[contact_email_label]
+other = "Su Correo Electronico:"
+
+[contact_message_label]
+other = "Su mensaje:"
+
+[contact_message_placeholder]
+other = "Deje un comentario..."
+
+[contact_button]
+other = "Enviar Mensaje"
+
+[contact_success]
+other = "Gracias! Su mensaje ha sido enviado."
+
+[contact_error]
+other = "Hubo un error al enviar su mensaje. Por favor intente de nuevo."
+
+[map_heading]
+other = "Donde Estan las Camaras de Flock en el Condado de Fairfax?"
+
+[map_description]
+other = "Este mapa colaborativo muestra camaras de Flock en toda America. El director ejecutivo de Flock, Garrett Langley, llamo a este mapa"
+
+[event_attend]
+other = "Asista a nuestro evento"
+
+[event_title]
+other = "EL CAMINO HACIA LA VIGILANCIA MASIVA"
+
+[event_date]
+other = "22 de agosto, 1-3pm"
+
+[event_location]
+other = "Ravensworth Baptist Church"
+
+[event_description]
+other = "Aprenda sobre los danos de las camaras de vigilancia con IA en el Condado de Fairfax con el Dr. Steven Keener, de la Fundacion Justice Forward Virginia y el Centro de Investigacion y Politica de Crimen, Equidad y Justicia"
+
+[event_rsvp]
+other = "Confirmar Asistencia"
+
+[p1_heading]
+other = "Que Esta Pasando?"
+
+[p2_heading]
+other = "Flock No Nos Hace Mas Seguros"
+
+[p3_heading]
+other = "Organizaciones de Apoyo"
+
+[p3_desc]
+other = "Estas iglesias, grupos activistas y organizaciones sin fines de lucro estan de acuerdo en que el Condado de Fairfax debe enmendar sus contratos para eliminar los sistemas ALPR. Si forma parte de una organizacion que estaria interesada en sumarse, por favor contactenos. Tome una postura y luche contra la vigilancia descontrolada que le lastima a usted y a sus vecinos!"
+
+[p4_heading]
+other = "Publicaciones Recientes"

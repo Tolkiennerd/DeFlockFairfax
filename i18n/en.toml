@@ -1,0 +1,116 @@
+[lang_switch_label]
+other = "Language"
+
+[nav_faq]
+other = "FAQ"
+
+[nav_wins]
+other = "Wins"
+
+[nav_blog]
+other = "Blog"
+
+[nav_resources]
+other = "Resources"
+
+[nav_contact]
+other = "Contact"
+
+[footer_rights]
+other = "All rights reserved."
+
+[page_not_found_title]
+other = "Ooops, something's missing."
+
+[page_not_found_desc]
+other = "Sorry, we can't find that page. You'll find lots to explore on the home page."
+
+[back_to_home]
+other = "Back to Homepage"
+
+[min_read]
+other = "min read"
+
+[tags_label]
+other = "Tags:"
+
+[newsletter_heading]
+other = "Stay Informed"
+
+[newsletter_desc]
+other = "Keep up to date with efforts to stop unchecked spying in our community."
+
+[newsletter_label]
+other = "Email address"
+
+[newsletter_placeholder]
+other = "Enter your email"
+
+[newsletter_button]
+other = "Notify me"
+
+[contact_intro]
+other = "Reach out with any questions, ideas, or requests! Let us know if you'd like to be more involved!"
+
+[contact_name_label]
+other = "Your Name:"
+
+[contact_name_placeholder]
+other = "Your name here"
+
+[contact_email_label]
+other = "Your Email:"
+
+[contact_message_label]
+other = "Your message:"
+
+[contact_message_placeholder]
+other = "Leave a comment..."
+
+[contact_button]
+other = "Send Message"
+
+[contact_success]
+other = "Thank you! Your message has been sent."
+
+[contact_error]
+other = "There was an error sending your message. Please try again."
+
+[map_heading]
+other = "Where Are Flock Cameras in Fairfax County?"
+
+[map_description]
+other = "This crowd-sourced map shows Flock cameras all over America. Flock CEO Garrett Langley called this map"
+
+[event_attend]
+other = "Attend our event"
+
+[event_title]
+other = "THE ROAD TO MASS SURVEILLANCE"
+
+[event_date]
+other = "August 22, 1-3pm"
+
+[event_location]
+other = "Ravensworth Baptist Church"
+
+[event_description]
+other = "Learn about the harms of AI surveillance cameras in Fairfax County from Dr. Steven Keener, of the Justice Forward Virginia Foundation and the Center for Crime, Equity and Justice Research and Policy"
+
+[event_rsvp]
+other = "RSVP"
+
+[p1_heading]
+other = "What's Going On?"
+
+[p2_heading]
+other = "Flock Doesn't Make Us Safer"
+
+[p3_heading]
+other = "Supporting Organizations"
+
+[p3_desc]
+other = "These churches, activist groups, and nonprofits agree that Fairfax County should amend its contracts to remove ALPR systems. If you're part of an organization that would be interested in signing on, please reach out. Take a stand and fight back against unchecked surveillance that hurts you and your neighbors!"
+
+[p4_heading]
+other = "Recent Posts"

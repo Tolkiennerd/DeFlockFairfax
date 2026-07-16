@@ -1,6 +1,5 @@
 baseURL: 'https://deflockfairfax.com/'
 title: DeFlock Fairfax
-languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: false
@@ -49,126 +48,8 @@ markup:
 
 params:
   og_image: /images/flock-camera-wide.jpg
-  moto: "Unchecked Spying Harms Your Privacy, Constitutional Rights, and Immigrant Communities"
   disable_theme_toggle: false
   newsletter_signup: true
-
-  p1:
-    heading: "What's Going On?"
-    content:
-      - text: |
-          In 2023, the Fairfax County Police Department began using [Flock Safety License Plate Readers](https://www.ffxnow.com/2023/11/21/county-approves-funds-to-expand-fcpds-automatic-license-plate-reader-program/). 
-          Unlike normal traffic cameras, automated license plate readers (ALPRs) [continually monitor](https://www.aclu.org/wp-content/uploads/publications/flock_1.pdf)
-          all traffic to uniquely profile every passing vehicle and create an easily searchable history of its movements [without a warrant](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches?utm_campaign=Cato_Today&utm_medium=email&utm_source=Cato_Email&utm_content=260421-Cato_Today).
-          Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
-      - text: |
-          - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
-          - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
-          - Wrongfully target innocent people who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) or [attacked by a K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
-          - Track a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
-          - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
-          - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
-      - text: |
-          FCPD's ALPR policy [states](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
-          does "not share information to federal authorities regarding their investigations into immigration enforcement." 
-          However, it isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are not subject to FOIA requests, and there are no independent audits of ALPR searches.
-          Additionally, FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
-          These agencies can search our cameras however they like, without any accountability.
-      - text: |
-          Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
-          In 2026, the Crime Commission released [police departments' self-reported ALPR usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
-          A third of departments didn't respond. Of the respondents using ALPRs:
-      - text: |
-          - 35% haven't promoted public awareness of ALPR usage, in violation of the law.
-          - 16% don't have an ALPR policy, in violation of the law. 
-          - 21% keep data longer than 21 days, in violation of the law.
-          - 13% share continuous ALPR data with out-of-state agencies, in violation of the law.
-          - 6% share continuous ALPR data with federal agencies, in violation of the law.
-          - The report didn't say which departments broke the law.
-          - The report didn't indicate any departments would face consequences.
-      - text: |
-          Flock [admitted to lying](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0)
-          about sending data to immigration enforcement.
-          Flock has [lied](https://www.msn.com/en-us/news/us/oshkosh-council-rescinds-flock-camera-contract-after-false-statements/ar-AA21wc5D)
-          to a Wisconsin city council about surveillance features. 
-          Data about our daily movements is entrusted to a private company whose integrity is suspect.
-          Regulating Flock has failed, and its lawful usage relies on broken promises from the company itself.
-      - text: |
-          [Other Virginia police departments](/wins) have terminated their Flock contracts. 
-          It's time for Fairfax County to follow suit. 
-          It's time to de-Flock.
-      # - text: |
-      #     [Ask the Fairfax County Board of Supervisors to remove Flock cameras&nbsp;&rarr; ](/take-action)
-  p2:
-    heading: "Flock Doesn't Make Us Safer"
-    image: "images/pages/lpr-demo.webp"
-    content:
-      - text: |
-          Flock claims its cameras have solved 10% of reported crimes in the US.
-          This comes from a study [predominantly written by Flock employees](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/),
-          and its other claims about safety have faced [skepticism from academics](https://www.wired.com/story/flock-safety-license-plate-readers-crime/). 
-      - text: |
-          The Denver police department canceled its Flock contract, and after the cameras were removed, [auto thefts went down](https://www.9news.com/article/news/local/local-politics/denvers-license-plate-cameras-auto-theft-dropped/73-73295672-9b03-45c2-a4c0-a38355ed84bb). 
-      - text: |
-          Contrary to the idea that there is "no expectation of privacy in public," the Supreme Court explicitly [stated](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
-          "A person does not surrender all Fourth Amendment protection by venturing into the public sphere."
-      - text: |
-          [Flock's security is abysmal](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/).
-          Several cameras upload to the internet unencrypted, allowing anyone to observe people at markets, joggers on trails, and children at playgrounds.
-          [Russian hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/) gained access to Flock footage because Flock doesn't require basic security measures.
-      - text: |
-          Police departments collect Flock data without warrants. Officers have been told to "[be as vague as permissible](https://www.404media.co/police-told-to-be-as-vague-as-permissible-about-why-they-use-flock/)"
-          for why they are using Flock. Virginia police have issued [thousands of searches](https://vcij.org/stories/virginia-police-search-vehicle-surveillance-data-247-why-isnt-always-clear)
-          with vague, one-word justifications such as "suspect," "suspicious," or even "123." 
-      - text: |
-          This is unambiguous surveillance which can and has been easily abused. 
-          The best way to avoid abuse is to prevent systems which provide the opportunity for such abuse.
-  p3:
-    heading: "Supporting Organizations"
-    content:
-      - text: |
-          These churches, activist groups, and nonprofits agree that Fairfax County should amend its contracts to remove ALPR systems.
-          If you're part of an organization that would be interested in signing on, please [reach out](/contact).
-          Take a stand and fight back against unchecked surveillance that hurts you and your neighbors!
-    logos:
-      - text: Indivisible NOVA West
-        link: https://www.indivisiblenovawest.org/home
-      - text: We Are CASA
-        link: https://wearecasa.org/
-      - text: Congregation Action Network
-        link: https://www.congregationactionnetwork.org/
-      - text: Justice Forward Virginia
-        link: https://www.justiceforwardvafoundation.org/
-      - text: New Virginia Majority
-        link: https://www.newvirginiamajority.org/
-      - text: Libertarian Party of Northern Virginia
-        link: https://www.lpnova.org/
-      - text: Herndon Friends Meeting
-        link: https://herndonfriendsmeeting.org/
-      - text: Daniels Run Peace Church
-        link: https://danielsrunpeacechurch.org/
-      - text: Little River United Church of Christ
-        link: https://www.lrucc.org/
-      - text: ICE out of Fairfax
-        link: https://www.instagram.com/iceoutoffairfax/
-      - text: Centreville Immigration Forum
-        link: https://centrevilleimmigrationforum.org/
-      - text: Institute for Secure Activism
-        link: https://secureactivism.org/
-      - text: Ravensworth Baptist Church
-        link: https://ravensworthbaptist.org/
-      - text: SURJ NOVA
-        link: https://www.surjnova.org/
-  p4:
-    heading: "Recent Posts"
-  p5:
-    heading: "Stay Informed"
-    content:
-      - text: "Keep up to date with efforts to stop unchecked spying in our community."
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
-
   social_media:
     github:
       enabled: true
@@ -182,58 +63,342 @@ params:
     twitter:
       enabled: true
       url: 'https://x.com/DeflockFairfax'
-    
-menu:
-  main:
-    - identifier: faq
-      name: FAQ
-      url: /faq/
-      weight: 10
-    - identifier: wins
-      name: Wins
-      url: /wins/
-      weight: 15
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
-      weight: 20
-    - identifier: resources
-      name: Resources
-      url: /resources/
-      weight: 30
-    # - identifier: take-action
-    #   name: Take Action
-    #   url: /take-action/
-    #   weight: 35
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 40
-  footer:
-    - identifier: faq
-      name: FAQ
-      url: /faq/
-      weight: 10
-    - identifier: wins
-      name: Wins
-      url: /wins/
-      weight: 15
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
-      weight: 20
-    - identifier: resources
-      name: Resources
-      url: /resources/
-      weight: 30
-    # - identifier: take-action
-    #   name: Take Action
-    #   url: /take-action/
-    #   weight: 35
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 40
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    params:
+      moto: "Unchecked Spying Harms Your Privacy, Constitutional Rights, and Immigrant Communities"
+      p1:
+        heading: "What's Going On?"
+        content:
+          - text: |
+              In 2023, the Fairfax County Police Department began using [Flock Safety License Plate Readers](https://www.ffxnow.com/2023/11/21/county-approves-funds-to-expand-fcpds-automatic-license-plate-reader-program/). 
+              Unlike normal traffic cameras, automated license plate readers (ALPRs) [continually monitor](https://www.aclu.org/wp-content/uploads/publications/flock_1.pdf)
+              all traffic to uniquely profile every passing vehicle and create an easily searchable history of its movements [without a warrant](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches?utm_campaign=Cato_Today&utm_medium=email&utm_source=Cato_Email&utm_content=260421-Cato_Today).
+              Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
+          - text: |
+              - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
+              - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
+              - Wrongfully target innocent people who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) or [attacked by a K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
+              - Track a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
+              - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
+              - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
+          - text: |
+              FCPD's ALPR policy [states](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
+              does "not share information to federal authorities regarding their investigations into immigration enforcement." 
+              However, it isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are not subject to FOIA requests, and there are no independent audits of ALPR searches.
+              Additionally, FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
+              These agencies can search our cameras however they like, without any accountability.
+          - text: |
+              Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
+              In 2026, the Crime Commission released [police departments' self-reported ALPR usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
+              A third of departments didn't respond. Of the respondents using ALPRs:
+          - text: |
+              - 35% haven't promoted public awareness of ALPR usage
+              - 16% don't have an ALPR policy
+              - 21% keep data longer than 21 days
+              - 13% share continuous ALPR data with out-of-state agencies
+              - 6% share continuous ALPR data with federal agencies
+              - These are all violations of the law
+              - The report didn't say which departments broke the law
+              - The report didn't indicate any departments would face consequences
+          - text: |
+              Flock [admitted to lying](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0)
+              about sending data to immigration enforcement.
+              Flock has [lied](https://www.msn.com/en-us/news/us/oshkosh-council-rescinds-flock-camera-contract-after-false-statements/ar-AA21wc5D)
+              to a Wisconsin city council about surveillance features. 
+              Data about our daily movements is entrusted to a private company whose integrity is suspect.
+              Regulating Flock has failed, and its lawful usage relies on broken promises from the company itself.
+          - text: |
+              [Other Virginia police departments](/wins) have terminated their Flock contracts. 
+              It's time for Fairfax County to follow suit. 
+              It's time to de-Flock.
+          # - text: |
+          #     [Ask the Fairfax County Board of Supervisors to remove Flock cameras&nbsp;&rarr; ](/take-action)
+      p2:
+        heading: "Flock Doesn't Make Us Safer"
+        image: "images/pages/lpr-demo.webp"
+        content:
+          - text: |
+              Flock claims its cameras have solved 10% of reported crimes in the US.
+              This comes from a study [predominantly written by Flock employees](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/),
+              and its other claims about safety have faced [skepticism from academics](https://www.wired.com/story/flock-safety-license-plate-readers-crime/). 
+          - text: |
+              The Denver police department canceled its Flock contract, and after the cameras were removed, [auto thefts went down](https://www.9news.com/article/news/local/local-politics/denvers-license-plate-cameras-auto-theft-dropped/73-73295672-9b03-45c2-a4c0-a38355ed84bb). 
+          - text: |
+              Contrary to the idea that there is "no expectation of privacy in public," the Supreme Court explicitly [stated](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
+              "A person does not surrender all Fourth Amendment protection by venturing into the public sphere."
+          - text: |
+              [Flock's security is abysmal](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/).
+              Several cameras upload to the internet unencrypted, allowing anyone to observe people at markets, joggers on trails, and children at playgrounds.
+              [Russian hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/) gained access to Flock footage because Flock doesn't require basic security measures.
+          - text: |
+              Police departments collect Flock data without warrants. Officers have been told to "[be as vague as permissible](https://www.404media.co/police-told-to-be-as-vague-as-permissible-about-why-they-use-flock/)"
+              for why they are using Flock. Virginia police have issued [thousands of searches](https://vcij.org/stories/virginia-police-search-vehicle-surveillance-data-247-why-isnt-always-clear)
+              with vague, one-word justifications such as "suspect," "suspicious," or even "123." 
+          - text: |
+              This is unambiguous surveillance which can and has been easily abused. 
+              The best way to avoid abuse is to prevent systems which provide the opportunity for such abuse.
+      p3:
+        heading: "Supporting Organizations"
+        content:
+          - text: |
+              These churches, activist groups, and nonprofits agree that Fairfax County should amend its contracts to remove ALPR systems.
+              If you're part of an organization that would be interested in signing on, please [reach out](/contact).
+              Take a stand and fight back against unchecked surveillance that hurts you and your neighbors!
+        logos:
+          - text: Indivisible NOVA West
+            link: https://www.indivisiblenovawest.org/home
+          - text: We Are CASA
+            link: https://wearecasa.org/
+          - text: Congregation Action Network
+            link: https://www.congregationactionnetwork.org/
+          - text: Justice Forward Virginia
+            link: https://www.justiceforwardvafoundation.org/
+          - text: New Virginia Majority
+            link: https://www.newvirginiamajority.org/
+          - text: Libertarian Party of Northern Virginia
+            link: https://www.lpnova.org/
+          - text: Herndon Friends Meeting
+            link: https://herndonfriendsmeeting.org/
+          - text: Daniels Run Peace Church
+            link: https://danielsrunpeacechurch.org/
+          - text: Little River United Church of Christ
+            link: https://www.lrucc.org/
+          - text: ICE out of Fairfax
+            link: https://www.instagram.com/iceoutoffairfax/
+          - text: Centreville Immigration Forum
+            link: https://centrevilleimmigrationforum.org/
+          - text: Institute for Secure Activism
+            link: https://secureactivism.org/
+          - text: Ravensworth Baptist Church
+            link: https://ravensworthbaptist.org/
+          - text: SURJ NOVA
+            link: https://www.surjnova.org/
+      p4:
+        heading: "Recent Posts"
+      p5:
+        heading: "Stay Informed"
+        content:
+          - text: "Keep up to date with efforts to stop unchecked spying in our community."
+        label: "Email address"
+        placeholder: "Enter your email"
+        button: "Notify me"
+    menu:
+      main:
+        - identifier: faq
+          name: FAQ
+          url: /faq/
+          weight: 10
+        - identifier: wins
+          name: Wins
+          url: /wins/
+          weight: 15
+        - identifier: blog
+          name: Blog
+          url: /categories/blog/
+          weight: 20
+        - identifier: resources
+          name: Resources
+          url: /resources/
+          weight: 30
+        # - identifier: take-action
+        #   name: Take Action
+        #   url: /take-action/
+        #   weight: 35
+        - identifier: contact
+          name: Contact
+          url: /contact/
+          weight: 40
+      footer:
+        - identifier: faq
+          name: FAQ
+          url: /faq/
+          weight: 10
+        - identifier: wins
+          name: Wins
+          url: /wins/
+          weight: 15
+        - identifier: blog
+          name: Blog
+          url: /categories/blog/
+          weight: 20
+        - identifier: resources
+          name: Resources
+          url: /resources/
+          weight: 30
+        # - identifier: take-action
+        #   name: Take Action
+        #   url: /take-action/
+        #   weight: 35
+        - identifier: contact
+          name: Contact
+          url: /contact/
+          weight: 40
+  es:
+    languageName: "Español"
+    weight: 2
+    params:
+      moto: "La Vigilancia Descontrolada Anula Su Privacidad, Sus Derechos Constitucionales y las Comunidades de Inmigrantes"
+      p1:
+        heading: "Que Esta Pasando?"
+        content:
+          - text: |
+              En 2023, el Departamento de Policia del Condado de Fairfax comenzo a usar [Lectores de Placas de Seguridad Flock](https://www.ffxnow.com/2023/11/21/county-approves-funds-to-expand-fcpds-automatic-license-plate-reader-program/). 
+              A diferencia de las camaras de transito normales, los lectores automatizados de placas (ALPRs) [monitorean continuamente](https://www.aclu.org/wp-content/uploads/publications/flock_1.pdf)
+              todo el trafico para perfilar unicamente cada vehiculo que pasa y crear un historial de sus movimientos facil de buscar [sin una orden judicial](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches?utm_campaign=Cato_Today&utm_medium=email&utm_source=Cato_Email&utm_content=260421-Cato_Today).
+              Flock获得了全国关注por su coleccion de [mas de 80,000 camaras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) que se utilizan para:
+          - text: |
+              - Asistir la [ofensiva de inmigracion de ICE](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
+              - Acechar a las [ex parejas romanticas de oficiales de policia](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
+              - Apuntar injustamente a personas inocentes que fueron [retenidas a punta de pistola](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) o [atacadas por un perro K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
+              - Rastrear a una [mujer de Texas obteniendo un aborto](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
+              - [Vigilar a activistas](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) en protestas de No Kings.
+              - Decirle a una [mujer inocente](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "No puede obtener una bocanada de aire fresco...sin que nosotros lo sepamos."
+          - text: |
+              La politica de ALPR del FCPD [establece](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) que 
+              "no comparte informacion con autoridades federales sobre sus investigaciones de cumplimiento de inmigracion." 
+              Sin embargo, no es posible verificar como el FCPD usa las camaras ALPR porque los registros de ALPR no estan sujetos a solicitudes FOIA, y no hay auditorias independientes de las busquedas de ALPR.
+              Ademas, el FCPD comparte sus datos de ALPR con [mas de 160 agencias](/documents/LPRAgencySharing.pdf). 
+              Estas agencias pueden buscar en nuestras camaras como quieran, sin ninguna responsabilidad.
+          - text: |
+              Virginia aprobo una [ley](https://lis.virginia.gov/bill-details/20251/HB2724) en 2025 que regula el uso de ALPR, limitando el intercambio de datos y los periodos de retencion.
+              En 2026, la Comision de Delitos publico el [uso autorreportado de ALPR por los departamentos de policia](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
+              Un tercio de los departamentos no respondio. De los que respondieron y usan ALPRs:
+          - text: |
+              - 35% no han promovido la conciencia publica sobre el uso de ALPR
+              - 16% no tienen una politica de ALPR
+              - 21% mantienen los datos por mas de 21 dias
+              - 13% comparten datos continuos de ALPR con agencias fuera del estado
+              - 6% comparten datos continuos de ALPR con agencias federales
+              - Todas estas son violaciones de la ley
+              - El informe no dijo que departamentos rompieron la ley.
+              - El informe no indico que departamentos enfrentarian consecuencias.
+          - text: |
+              Flock [admitio haber mentido](https://www.msn.com/en-us/politics/government/flock-admits-federal-immigration-agents-have-direct-access-to-tracking-data-despite-previous-claims/ar-AA1KQLP0)
+              sobre enviar datos a la fiscalizacion de inmigracion.
+              Flock ha [mentido](https://www.msn.com/en-us/news/us/oshkosh-council-rescinds-flock-camera-contract-after-false-statements/ar-AA21wc5D)
+              a un consejo municipal de Wisconsin sobre funciones de vigilancia.
+              Los datos sobre nuestros movimientos diarios estan en manos de una empresa cuya integridad es cuestionable.
+              Regular a Flock ha fallado, y su uso legal depende de promesas rotas de la empresa misma.
+          - text: |
+              [Otros departamentos de policia de Virginia](/es/wins) han terminado sus contratos con Flock.
+              Es hora de que el Condado de Fairfax haga lo mismo.
+              Es hora de des-Flock.
+      p2:
+        heading: "Flock No Nos Hace Mas Seguros"
+        image: "images/pages/lpr-demo.webp"
+        content:
+          - text: |
+              Flock afirma que sus camaras han resuelto el 10% de los crimenes reportados en los EE.UU.
+              Esto proviene de un estudio [escrito principalmente por empleados de Flock](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/),
+              y sus otras afirmaciones sobre seguridad han enfrentado [escepticismo de academicos](https://www.wired.com/story/flock-safety-license-plate-readers-crime/).
+          - text: |
+              El departamento de policia de Denver cancelo su contrato con Flock, y despues de que se retiraron las camaras, [los hurtos de autos bajaron](https://www.9news.com/article/news/local/local-politics/denvers-license-plate-cameras-auto-theft-dropped/73-73295672-9b03-45c2-a4c0-a38355ed84bb).
+          - text: |
+              Contrario a la idea de que "no hay expectativa de privacidad en publico," la Corte Superior explicitamente [declaro](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
+              "Una persona no renuncia a toda proteccion de la Cuarta Enmienda al aventurarse en la esfera publica."
+          - text: |
+              [La seguridad de Flock es pobre](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/).
+              Varias camaras cargan a internet sin encriptacion, permitiendo que cualquiera observe personas en mercados, corredores en senderos y ninos en parques.
+              [Hackers rusos](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/) obtuvieron acceso a imagenes de Flock porque Flock no requiere medidas de seguridad basicas.
+          - text: |
+              Los departamentos de policia recopilan datos de Flock sin ordenes judiciales. Se les ha dicho a los oficiales que "[sean lo mas vagos posible](https://www.404media.co/police-told-to-be-as-vague-as-permissible-about-why-they-use-flock/)"
+              sobre por que usan Flock. La policia de Virginia ha emitido [miles de busquedas](https://vcij.org/stories/virginia-police-search-vehicle-surveillance-data-247-why-isnt-always-clear)
+              con justificaciones vagas de una sola palabra como "sospechoso," "sospechoso," o incluso "123."
+          - text: |
+              Esta es una vigilancia inequivoca que puede y ha sido facilmente abusada.
+              La mejor manera de evitar el abuso es prevenir sistemas que brindan la oportunidad para tal abuso.
+      p3:
+        heading: "Organizaciones de Apoyo"
+        content:
+          - text: |
+              Estas iglesias, grupos activistas y organizaciones sin fines de lucro estan de acuerdo en que el Condado de Fairfax debe enmendar sus contratos para eliminar los sistemas ALPR.
+              Si forma parte de una organizacion que estaria interesada en sumarse, por favor [contactenos](/es/contact).
+              Tome una postura y luche contra la vigilancia descontrolada que le lastima a usted y a sus vecinos!
+        logos:
+          - text: Indivisible NOVA West
+            link: https://www.indivisiblenovawest.org/home
+          - text: We Are CASA
+            link: https://wearecasa.org/
+          - text: Congregation Action Network
+            link: https://www.congregationactionnetwork.org/
+          - text: Justice Forward Virginia
+            link: https://www.justiceforwardvafoundation.org/
+          - text: New Virginia Majority
+            link: https://www.newvirginiamajority.org/
+          - text: Libertarian Party of Northern Virginia
+            link: https://www.lpnova.org/
+          - text: Herndon Friends Meeting
+            link: https://herndonfriendsmeeting.org/
+          - text: Daniels Run Peace Church
+            link: https://danielsrunpeacechurch.org/
+          - text: Little River United Church of Christ
+            link: https://www.lrucc.org/
+          - text: ICE out of Fairfax
+            link: https://www.instagram.com/iceoutoffairfax/
+          - text: Centreville Immigration Forum
+            link: https://centrevilleimmigrationforum.org/
+          - text: Institute for Secure Activism
+            link: https://secureactivism.org/
+          - text: Ravensworth Baptist Church
+            link: https://ravensworthbaptist.org/
+          - text: SURJ NOVA
+            link: https://www.surjnova.org/
+      p4:
+        heading: "Publicaciones Recientes"
+      p5:
+        heading: "Mantengase Informado"
+        content:
+          - text: "Mantengase al dia con los esfuerzos para detener el espionaje descontrolado en nuestra comunidad."
+        label: "Correo electronico"
+        placeholder: "Ingrese su correo electronico"
+        button: "Notificarme"
+    menu:
+      main:
+        - identifier: faq
+          name: Preguntas Frecuentes
+          url: /es/faq/
+          weight: 10
+        - identifier: wins
+          name: Logros
+          url: /es/wins/
+          weight: 15
+        - identifier: blog
+          name: Blog
+          url: /es/categories/blog/
+          weight: 20
+        - identifier: resources
+          name: Recursos
+          url: /es/resources/
+          weight: 30
+        - identifier: contact
+          name: Contacto
+          url: /es/contact/
+          weight: 40
+      footer:
+        - identifier: faq
+          name: Preguntas Frecuentes
+          url: /es/faq/
+          weight: 10
+        - identifier: wins
+          name: Logros
+          url: /es/wins/
+          weight: 15
+        - identifier: blog
+          name: Blog
+          url: /es/categories/blog/
+          weight: 20
+        - identifier: resources
+          name: Recursos
+          url: /es/resources/
+          weight: 30
+        - identifier: contact
+          name: Contacto
+          url: /es/contact/
+          weight: 40
 
 privacy:
   disqus:
