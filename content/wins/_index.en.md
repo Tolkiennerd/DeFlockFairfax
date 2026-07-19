@@ -5,7 +5,9 @@ draft: false
 description: Virginia communities that have rejected surveillance
 ---
 
-These cities, towns, and counties in Virginia have prioritized their residents' privacy by rejecting the expansion of automated license plate readers.  
+<p class="mb-8 font-light text-center text-gray-900 lg:mb-16 dark:text-gray-200 sm:text-xl">
+    These cities, towns, and counties in Virginia have prioritized their residents' privacy by rejecting the expansion of automated license plate readers.  
+</p>
 
 ### Staunton
 

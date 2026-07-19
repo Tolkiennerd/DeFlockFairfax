@@ -5,7 +5,9 @@ draft: false
 description: Comunidades de Virginia que han rechazado la vigilancia
 ---
 
-Estas ciudades, pueblos y condados en Virginia han priorizado la privacidad de sus residentes rechazando la expansion de lectores automatizados de placas.
+<p class="mb-8 font-light text-center text-gray-900 lg:mb-16 dark:text-gray-200 sm:text-xl">
+    Estas ciudades, pueblos y condados en Virginia han priorizado la privacidad de sus residentes rechazando la expansion de lectores automatizados de placas.
+</p>
 
 ### Staunton
 

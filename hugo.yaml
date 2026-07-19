@@ -153,14 +153,14 @@ languages:
             link: https://www.indivisiblenovawest.org/home
           - text: We Are CASA
             link: https://wearecasa.org/
-          - text: Congregation Action Network
-            link: https://www.congregationactionnetwork.org/
-          - text: Justice Forward Virginia
-            link: https://www.justiceforwardvafoundation.org/
           - text: New Virginia Majority
             link: https://www.newvirginiamajority.org/
-          - text: Libertarian Party of Northern Virginia
-            link: https://www.lpnova.org/
+          - text: Justice Forward Virginia
+            link: https://www.justiceforwardvafoundation.org/
+          - text: Congregation Action Network
+            link: https://www.congregationactionnetwork.org/
+          - text: Ravensworth Baptist Church
+            link: https://ravensworthbaptist.org/
           - text: Herndon Friends Meeting
             link: https://herndonfriendsmeeting.org/
           - text: Daniels Run Peace Church
@@ -171,12 +171,14 @@ languages:
             link: https://www.instagram.com/iceoutoffairfax/
           - text: Centreville Immigration Forum
             link: https://centrevilleimmigrationforum.org/
-          - text: Institute for Secure Activism
-            link: https://secureactivism.org/
-          - text: Ravensworth Baptist Church
-            link: https://ravensworthbaptist.org/
           - text: SURJ NOVA
             link: https://www.surjnova.org/
+          - text: Institute for Secure Activism
+            link: https://secureactivism.org/
+          - text: Libertarian Party of Northern Virginia
+            link: https://www.lpnova.org/
+          - text: NOVA DSA
+            link: https://mdcdsa.org/nova/
       p4:
         heading: "Recent Posts"
       p5:
@@ -323,14 +325,14 @@ languages:
             link: https://www.indivisiblenovawest.org/home
           - text: We Are CASA
             link: https://wearecasa.org/
-          - text: Congregation Action Network
-            link: https://www.congregationactionnetwork.org/
-          - text: Justice Forward Virginia
-            link: https://www.justiceforwardvafoundation.org/
           - text: New Virginia Majority
             link: https://www.newvirginiamajority.org/
-          - text: Libertarian Party of Northern Virginia
-            link: https://www.lpnova.org/
+          - text: Justice Forward Virginia
+            link: https://www.justiceforwardvafoundation.org/
+          - text: Congregation Action Network
+            link: https://www.congregationactionnetwork.org/
+          - text: Ravensworth Baptist Church
+            link: https://ravensworthbaptist.org/
           - text: Herndon Friends Meeting
             link: https://herndonfriendsmeeting.org/
           - text: Daniels Run Peace Church
@@ -341,12 +343,14 @@ languages:
             link: https://www.instagram.com/iceoutoffairfax/
           - text: Centreville Immigration Forum
             link: https://centrevilleimmigrationforum.org/
-          - text: Institute for Secure Activism
-            link: https://secureactivism.org/
-          - text: Ravensworth Baptist Church
-            link: https://ravensworthbaptist.org/
           - text: SURJ NOVA
             link: https://www.surjnova.org/
+          - text: Institute for Secure Activism
+            link: https://secureactivism.org/
+          - text: Libertarian Party of Northern Virginia
+            link: https://www.lpnova.org/
+          - text: NOVA DSA
+            link: https://mdcdsa.org/nova/
       p4:
         heading: "Publicaciones Recientes"
       p5:
