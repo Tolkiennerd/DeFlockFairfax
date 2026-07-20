@@ -10,16 +10,16 @@ description: Contacte a DeFlock Fairfax
 <section class="lg:pb-24">
   <div class="px-4 mx-auto max-w-screen-md">
       <p class="mb-8 font-light text-center text-gray-900 lg:mb-16 dark:text-gray-200 sm:text-xl">
-        Contactenos con cualquier pregunta, idea o solicitud! Haganos saber si les gustaria participar mas!
+        Contáctenos con cualquier pregunta, idea o solicitud! Háganos saber si les gustaría participar más!
       </p>
       <form name="contact" method="POST" netlify action="/es/contact/" class="space-y-8">
           <div class="my-4">
               <label for="name" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-50"><strong>Su Nombre</strong></label>
-              <input id="contact-name-textbox" type="text" name="name" class="valid block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="Su nombre aqui" required>
+              <input id="contact-name-textbox" type="text" name="name" class="valid block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="Su nombre aquí" required>
           </div>
           <div class="my-4">
-              <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-50"><strong>Su Correo Electronico:</strong></label>
-              <input id="contact-email-textbox" type="email" name="email" class="valid block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="name@example.com" required>
+              <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-50"><strong>Su Correo Electrónico:</strong></label>
+              <input id="contact-email-textbox" type="email" name="email" class="valid block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="nombre@ejemplo.com" required>
           </div>
           <div class="my-4 sm:col-span-2">
               <label for="message" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-50"><strong>Su mensaje:</strong></label>

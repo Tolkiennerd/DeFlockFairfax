@@ -1,5 +1,5 @@
 ---
-title: "Residentes Hablan Contra Flock, Cato No Está de Acuerdo con la Decisión de Norfolk, y Flock Mentiroso...Otra Vez"
+title: "Residentes Hablan Contra Flock, Cato No Está de Acuerdo con la Decisión de Norfolk, y Flock Miente...Otra Vez"
 date: 2026-04-17T09:35:03-04:00
 draft: false
 featured_image: ../assets/images/featured/budget-hearing.png
@@ -14,7 +14,7 @@ embedElement: |
 
 ### Instituto Cato Busca Reversión para Schmidt v. City of Norfolk
 
-Los residentes de Norfolk, Virginia demandaron a su ciudad bajo fundamentos de la Cuarta Enmienda por el uso de cámaras Flock para realizar búsquedas sin orden judicial de sus movimientos diarios. El caso fue desestimado por el tribunal en una decisión que permite a la policía continuar con sus prácticas de vigilancia invasiva.
+Los residentes de Norfolk, Virginia demandaron a su ciudad bajo fundamentos de la Cuarta Enmienda por el uso de cámaras Flock para realizar búsquedas sin orden de sus movimientos diarios. El caso fue desestimado por el tribunal en una decisión que permite a la policía continuar con sus prácticas de vigilancia invasiva.
 
 Esta decisión ha sido [criticada](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches) por el Instituto Cato, un grupo de estudio libertario. Cato ha solicitado a la Corte de Apelaciones del Cuarto Circuito que revierta una decisión de que las cámaras Flock no constituyen una búsqueda de la Cuarta Enmienda.
 

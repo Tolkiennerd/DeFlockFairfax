@@ -17,7 +17,7 @@ other = "Recursos"
 other = "Contacto"
 
 [footer_rights]
-other = "Todos los derechos reservados."
+other = "Todos los derechos están reservados."
 
 [page_not_found_title]
 other = "Vaya, algo no se encuentra."
@@ -50,7 +50,7 @@ other = "Ingrese su correo electronico"
 other = "Notificarme"
 
 [contact_intro]
-other = "Contactenos con cualquier pregunta, idea o solicitud! Haganos saber si les gustaria participar mas!"
+other = "Contactenos con cualquier pregunta, idea o solicitud! Haganos saber si les gustaria participar más!"
 
 [contact_name_label]
 other = "Su Nombre:"
@@ -77,10 +77,10 @@ other = "Gracias! Su mensaje ha sido enviado."
 other = "Hubo un error al enviar su mensaje. Por favor intente de nuevo."
 
 [map_heading]
-other = "Donde Estan las Camaras de Flock en el Condado de Fairfax?"
+other = "Dónde Están las Cámaras de Flock en el Condado de Fairfax?"
 
 [map_description]
-other = "Este mapa colaborativo muestra camaras de Flock en toda America. El director ejecutivo de Flock, Garrett Langley, llamo a este mapa"
+other = "Este mapa colaborativo muestra cámaras de Flock en toda América. El director ejecutivo de Flock, Garrett Langley, llamó a este mapa"
 
 [event_attend]
 other = "Asista a nuestro evento"
@@ -92,16 +92,16 @@ other = "EL CAMINO HACIA LA VIGILANCIA MASIVA"
 other = "22 de agosto, 1-3pm"
 
 [event_location]
-other = "Ravensworth Baptist Church"
+other = "Iglesia Bautista Ravensworth"
 
 [event_description]
-other = "Aprenda sobre los danos de las camaras de vigilancia con IA en el Condado de Fairfax con el Dr. Steven Keener, de la Fundacion Justice Forward Virginia y el Centro de Investigacion y Politica de Crimen, Equidad y Justicia"
+other = "Aprenda sobre los daños de las cámaras de vigilancia con inteligencia artificial en el Condado de Fairfax con el Dr. Steven Keener, de la Fundacion Justice Forward Virginia y el Centro de Investigación y Políticas de Crimen, Igualdad y Justicia"
 
 [event_rsvp]
-other = "Confirmar Asistencia"
+other = "Reservar Asistencia"
 
 [p1_heading]
-other = "Que Esta Pasando?"
+other = "¿Qué Está Pasando?"
 
 [p2_heading]
 other = "Flock No Nos Hace Mas Seguros"
@@ -110,7 +110,10 @@ other = "Flock No Nos Hace Mas Seguros"
 other = "Organizaciones de Apoyo"
 
 [p3_desc]
-other = "Estas iglesias, grupos activistas y organizaciones sin fines de lucro estan de acuerdo en que el Condado de Fairfax debe enmendar sus contratos para eliminar los sistemas ALPR. Si forma parte de una organizacion que estaria interesada en sumarse, por favor contactenos. Tome una postura y luche contra la vigilancia descontrolada que le lastima a usted y a sus vecinos!"
+other = "Estas iglesias, grupos activistas y organizaciones sin fines de lucro están de acuerdo en que el Condado de Fairfax debe enmendar sus contratos para eliminar los sistemas ALPR. Si forma parte de una organizacion que estaria interesada en sumarse, por favor contactenos. Tome una postura y luche contra la vigilancia descontrolada que le lastima a usted y a sus vecinos!"
 
 [p4_heading]
 other = "Publicaciones Recientes"
+
+[terroristic]
+other = "terrorista"
