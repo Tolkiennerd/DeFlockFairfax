@@ -2,7 +2,6 @@
 title: 'Louis Rossmann: "Virginia passed a privacy law that police immediately broke"'
 date: 2026-03-24T11:10:36+08:00
 draft: false
-language: en
 featured_image: ../assets/images/featured/rossmann.jpg
 summary: Data privacy Youtuber Louis Rossmann explains how Virginia law enforcement failed to abide by a law intended to regulate ALPR usage
 description: Data privacy Youtuber Louis Rossmann explains how Virginia law enforcement failed to abide by a law intended to regulate ALPR usage

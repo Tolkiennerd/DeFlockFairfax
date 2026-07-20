@@ -2,7 +2,6 @@
 title: 'Benn Jordan: "This Flock Camera Leak is like Netflix For Stalkers"'
 date: 2026-04-06T11:10:36+08:00
 draft: false
-language: en
 featured_image: ../assets/images/featured/bennjordan.jpg
 summary: Benn Jordan shows how Flock's poor security allows anyone to view real-time footage of normal people
 description: Benn Jordan shows how Flock's poor security allows anyone to view real-time footage of normal people

@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 date: 2026-03-25T03:10:36.000Z
 draft: false
-language: en
 description: Frequently Asked Questions
 ---
 

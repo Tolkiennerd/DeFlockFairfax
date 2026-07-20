@@ -1,5 +1,7 @@
+{{ $postURL := printf "/posts/%s" .Params.Address }}
+{{ if eq .Site.Language.Lang "es" }}{{ $postURL = printf "/es/posts/%s" .Params.Address }}{{ end }}
 <div class="post-title flex overflow-hidden flex-col bg-gray-50 rounded-lg shadow-lg dark:bg-gray-900">
-    <a href="/posts/{{ .Params.Address }}">
+    <a href="{{ $postURL }}">
         {{ with .Params.featured_image }}
         {{ with resources.Get . }}
         {{ $resized := .Resize "500x webp q90" }}
@@ -11,7 +13,7 @@
     </a>
     <div class="p-6">
         <div class="flex-1">
-            <a href="/posts/{{ .Params.Address }}"
+            <a href="{{ $postURL }}"
                 class="post-box mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
                 {{.Title}}
             </a>
@@ -24,7 +26,7 @@
             <span>
             {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
             {{- if gt $elem_index 0 }}, {{ end -}}
-            <a href="/posts/{{ .Params.Address }}"
+            <a href="{{ $postURL }}"
                 class="post-box inline-flex items-center px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize bg-gray-300 rounded-md hover:bg-primary-200 hover:text-black">{{ .LinkTitle }}</a>
             {{- end -}}
             </span>
