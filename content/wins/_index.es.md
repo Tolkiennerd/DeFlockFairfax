@@ -25,6 +25,9 @@ El Consejo Municipal de Warrenton votó 5-1 para [rechazar la instalacion de cá
 
 La Junta de Supervisores del Condado de Floyd permitió que el [contrato de Flock de la Oficina del Sheriff del Condado de Floyd expirara](https://www.floydtimes.com/sheriff-craig-flock-cameras-are-out-at-end-of-contract/) después de que los residentes plantearan preocupaciones de privacidad. Un residente, Jacey Clay, dijo, "Los sistemas de vigilancia rara vez permanecen limitados a su propósito original. Lo que comienza como una herramienta para localizar vehículos robados eventualmente se usará para monitorear actividad política, participación religiosa, protestas, visitas médicas y otras actividades lícitas de nuestros ciudadanos. La cuestión no es si los funcionarios actuales van a hacer un mal uso de estos sistemas; es cuando."
 
+### Elkton
+El Ayuntamiento de Elkton [votó por unanimidad](https://augustafreepress.com/news/community-group-persuades-elkton-town-council-to-cut-ties-with-flock/) cancelar su contrato con Flock debido a los esfuerzos de [DeFlock the Valley](https://deflockthevalley.com/).
+
 ### Harrisonburg
 
 El Consejo Municipal de Harrisonburg anuncio que apoya los esfuerzos de [Deflock Hburg](https://deflockhburg.org/) para [eliminar las cámaras ALPR de la ciudad](https://www.wmra.org/2026-07-15/harrisonburg-city-council-plans-to-end-use-of-flock-cameras). La alcaldesa Deanna Reed dijo, "Creemos que esto es lo mejor para nuestra comunidad. Así que lo único que puedo decirles es gracias. Gracias por usar su voz, gracias por todas las cartas, los correos electrónicos, y creo que esta es la mejor decisión para nuestra comunidad."
