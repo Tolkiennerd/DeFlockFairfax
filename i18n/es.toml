@@ -117,3 +117,15 @@ other = "Publicaciones Recientes"
 
 [terroristic]
 other = "terrorista"
+
+[email_action]
+other = "Tomar medidas para detener los ALPR"
+
+[email_action_supervisors]
+other = "Envía un correo electrónico a tu supervisor de distrito"
+
+[email_action_description]
+other = "Haz clic abajo para enviar un correo electrónico a tu Supervisor de Distrito del Condado de Fairfax sobre lectores automáticos de matrículas."
+
+[email_action_title]
+other = "Enviar correo electrónico"
