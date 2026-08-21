@@ -3,7 +3,7 @@ title: "Toma medidas"
 date: 2026-05-02T17:45:25-04:00
 language: es
 description: Toma medidas
-draft: false
+draft: true
 ---
 
 <script src="/scripts/take-action.js"></script>

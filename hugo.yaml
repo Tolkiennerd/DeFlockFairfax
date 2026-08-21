@@ -206,10 +206,10 @@ languages:
           name: Resources
           url: /resources/
           weight: 30
-        - identifier: take-action
-          name: Take Action
-          url: /take-action/
-          weight: 35
+        # - identifier: take-action
+        #   name: Take Action
+        #   url: /take-action/
+        #   weight: 35
         - identifier: contact
           name: Contact
           url: /contact/

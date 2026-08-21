@@ -3,7 +3,7 @@ title: "Take Action"
 date: 2026-05-02T17:45:25-04:00
 language: en
 description: Take Action
-draft: false
+draft: true
 ---
 
 <script src="/scripts/take-action.js"></script>
