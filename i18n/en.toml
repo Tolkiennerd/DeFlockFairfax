@@ -117,3 +117,15 @@ other = "Recent Posts"
 
 [terroristic]
 other = "terroristic"
+
+[email_action]
+other = "Take Action to Stop ALPRs"
+
+[email_action_supervisors]
+other = "Email Your District Supervisor"
+
+[email_action_description]
+other = "Click below to send an email to your Fairfax County District Supervisor about automated license plate readers."
+
+[email_action_title]
+other = "TAKE ACTION"

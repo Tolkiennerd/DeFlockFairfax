@@ -74,17 +74,29 @@ const populateEmail = (name, supervisor) => {
         return;
     }
 
-    const emailBody = `I request that Fairfax County remove its automated license plate reader (ALPR) systems. Including but not limited to, amending contract 4400012268 with Insight Public Sector to remove Flock Camera Systems and amending contract 4400013234 with Axon Enterprises Inc. to remove Axon Fleet 3 products.
+    const emailBody = `I urge the Board of Supervisors (BOS) to prohibit the procurement, installation, maintenance, and operation of automatic license plate recognition systems (ALPRs), terminate any contracts, cease use, and remove ALPRs from Fairfax County.
 
-ALPRs are an invasion of civil liberties because they monitor all traffic to uniquely profile each vehicle and create a history of its movements without a warrant.
+These AI-powered cameras monitor our neighbors' movements in an unprecedented manner by creating unique profiles of every vehicle and storing a history of its movements. Data entries can be in the billions. ALPRs are being marketed to law enforcement and lawmakers by private companies funded by Peter Thiel and other tech billionaires. They aim to create a seamless system of surveillance nationwide. These systems were implemented in Fairfax County without community consent.  
 
-Across the country, ALPRs have been used to spy on immigrants, No Kings protesters, police officers' ex-girlfriends, and a Texas woman getting an abortion. False positives from ALPRs have resulted in innocent people and families held at gunpoint. Russian hackers have acquired ALPR footage. ICE uses ALPR data. Of all immigration-related ALPR searches in Virginia, over half occurred in Fairfax County. Even if FCPD doesn't give ICE this data, ICE can access our neighbors' data from any of the 160+ agencies we share with.
+ALPRs violate your constituents' privacy, civil liberties, and democratic freedoms. Fairfax BOS should join the dozens of other governing bodies across the country, including Harrisonburg, Charlottesville, and a number of other Virginia localities that have canceled their ALPR contracts.
 
-Virginia passed a law regulating ALPRs, but the Virginia State Crime Commission reported that police departments broke the law. The report didn't say which departments broke the law, and no departments faced consequences for operating Flock cameras illegally.
+Bipartisan majorities in the Virginia General Assembly have repeatedly rejected proposals to expand ALPR surveillance to state highways. The Virginia State Crime Commission has acknowledged that ALPR deployment disproportionately targets Black and Brown communities.  
 
-Other Virginia police departments have removed their ALPRs. As Charlottesville city council member Michael Payne said, \"It's a huge problem to have a privately-owned company building a national surveillance system of vehicles and vehicle locations.\"
+ALPRs have been used to surveil people because of political views, religious views, right to bear arms, sexual orientation, immigration status, and ethnicity. 
 
-I urge the Board of Supervisors to remove ALPRs. Further information and sources are available at deflockfairfax.com. Thank you for your time and consideration.`;
+ALPRs have been used to spy on protesters exercising their First Amendment rights and women seeking reproductive healthcare
+
+ALPRs have been used to stalk women, children, and intimate partners.
+
+ALPR databases have been accessed by federal agencies to include ICE, DHS, ATF, CBP, and other out-of-state law enforcement and government agencies.
+
+ALPRs frequently relay false positives, misreads, and other errors that have contributed to high risk traffic stops; innocent people held at gunpoint, wrongfully accused, incarcerated, mauled, and permanently disabled.
+
+It is not enough to regulate ALPRs. The Virginia State Crime Commission reported that police departments broke a 2025 law regulating ALPRs. Departments shared data with out-of-state and federal agencies and broke other regulations. No departments faced consequences for operating ALPRs illegally. Full removal is the only way forward.
+
+ALPRs don't make us safer, they make us vulnerable targets and erode community trust. The BOS must act swiftly to protect the people you represent, not predatory private companies. Take immediate action to deactivate, cancel, remove, and prohibit ALPR systems in Fairfax County.
+
+To connect with a broad group of community members in opposition to ALPRs visit deflockfairfax.com.`;
 
     let greeting = "";
     let districtText = "";
