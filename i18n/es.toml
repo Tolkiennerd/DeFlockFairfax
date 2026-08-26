@@ -122,10 +122,10 @@ other = "terrorista"
 other = "Tomar medidas para detener los ALPR"
 
 [email_action_supervisors]
-other = "Envía un correo electrónico a tu supervisor de distrito"
+other = "Envía un correo electrónico a la Junta de Supervisores"
 
 [email_action_description]
-other = "Haz clic abajo para enviar un correo electrónico a tu Supervisor de Distrito del Condado de Fairfax sobre lectores automáticos de matrículas."
+other = "Haz clic abajo para enviar un correo electrónico a la Junta de Supervisores del Condado de Fairfax sobre lectores automáticos de matrículas."
 
 [email_action_title]
 other = "TOMA MEDIDAS"

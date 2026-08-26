@@ -69,7 +69,7 @@ languages:
     languageName: "English"
     weight: 1
     params:
-      moto: "Unchecked Spying Harms Your Privacy, Constitutional Rights, and Immigrant Communities"
+      moto: "Unchecked Spying Harms Your Privacy, Constitutional Rights, and Communities Under Attack"
       p1:
         heading: "What's Going On?"
         content:
@@ -79,18 +79,18 @@ languages:
               all traffic to uniquely profile every passing vehicle and create an easily searchable history of its movements [without a warrant](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches?utm_campaign=Cato_Today&utm_medium=email&utm_source=Cato_Email&utm_content=260421-Cato_Today).
               Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
           - text: |
-              - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
               - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
               - Wrongfully target innocent people who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) or [attacked by a K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
+              - Surveil people exercising their [First Amendment rights](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists).
               - Track a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
-              - [Surveil activists](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) at No Kings protests.
+              - Send [gun-show customers'](https://www.wsj.com/articles/gun-show-customers-license-plates-come-under-scrutiny-1475451302) information to federal agents
+              - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
               - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
           - text: |
-              FCPD's ALPR policy [states](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) it 
-              does "not share information to federal authorities regarding their investigations into immigration enforcement." 
-              However, it isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are not subject to FOIA requests, and there are no independent audits of ALPR searches.
-              Additionally, FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
+              It isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are not subject to FOIA requests.
+              FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
               These agencies can search our cameras however they like, without any accountability.
+              Moreover, all Flock data is owned by Flock, not FCPD. Its [terms and conditions](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flocks-terms-and-conditions) grant the company, "the exclusive right to determine and control the method, timing, format, and medium" of access to the data.
           - text: |
               Virginia passed a [law](https://lis.virginia.gov/bill-details/20251/HB2724) in 2025 regulating ALPR usage, limiting data sharing and retention periods.
               In 2026, the Crime Commission released [police departments' self-reported ALPR usage](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
@@ -115,8 +115,10 @@ languages:
               [Other Virginia police departments](/wins) have terminated their Flock contracts. 
               It's time for Fairfax County to follow suit. 
               It's time to de-Flock.
-          # - text: |
-          #     [Ask the Fairfax County Board of Supervisors to remove Flock cameras&nbsp;&rarr; ](/take-action)
+          - text: |
+              [**Urge the Fairfax County Board of Supervisors to remove ALPRs&nbsp;&rarr;** ](https://actionnetwork.org/letters/board-of-supervisors-email)
+          - text: |
+              [**Take action against ALPRs by filling out our interest form&nbsp;&rarr;** ](https://bit.ly/DFAction)
       p2:
         heading: "Flock Doesn't Make Us Safer"
         image: "images/pages/lpr-demo.webp"
@@ -188,6 +190,8 @@ languages:
         label: "Email address"
         placeholder: "Enter your email"
         button: "Notify me"
+        email: "EMAIL THE BOARD OF SUPERVISORS"
+        interest: "TAKE ACTION AGAINST ALPRS"
     menu:
       main:
         - identifier: faq
@@ -206,10 +210,10 @@ languages:
           name: Resources
           url: /resources/
           weight: 30
-        # - identifier: take-action
-        #   name: Take Action
-        #   url: /take-action/
-        #   weight: 35
+        - identifier: join
+          name: Join
+          url: /join/
+          weight: 35
         - identifier: contact
           name: Contact
           url: /contact/
@@ -231,10 +235,10 @@ languages:
           name: Resources
           url: /resources/
           weight: 30
-        # - identifier: take-action
-        #   name: Take Action
-        #   url: /take-action/
-        #   weight: 35
+        - identifier: join
+          name: Join
+          url: /join/
+          weight: 35
         - identifier: contact
           name: Contact
           url: /contact/
@@ -253,18 +257,19 @@ languages:
               todo el tráfico para perfilar únicamente cada vehículo que pasa y crear un historial de sus movimientos facil de buscar [sin una orden](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches?utm_campaign=Cato_Today&utm_medium=email&utm_source=Cato_Email&utm_content=260421-Cato_Today).
               Flock obtuvo atención a nivel nacional por su colección de [más de 80,000 cámaras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) que se utilizan para:
           - text: |
-              - Asistir la [ofensiva de inmigración de ICE](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
               - Acechar a las [ex parejas románticas de oficiales de policía](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
+              - Asistir la [ofensiva de inmigración de ICE](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
               - Apuntar injustamente a personas inocentes que fueron [retenidas a punta de pistola](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) o [atacadas por un perro oficial K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
+              - Envía la información de los [clientes de la feria de armas](https://www.wsj.com/articles/gun-show-customers-license-plates-come-under-scrutiny-1475451302) a agentes federales
               - Rastrear a una [mujer de Texas buscando servicios de aborto](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
               - [Vigilar a activistas](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) en protestas de "No Kings."
               - Decirle a una [mujer inocente](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "No puedes respirar aire fresco...sin que nosotros lo sepamos."
           - text: |
-              La política de ALPR del FCPD [establece](https://fcpdnews.wordpress.com/2023/02/24/fcpd-using-flock-safety-license-plate-reader/) que 
-              "no comparte información con autoridades federales sobre sus investigaciones de cumplimiento de inmigración." 
-              Sin embargo, no es posible verificar como el FCPD usa las cámaras ALPR porque los registros de ALPR no están sujetos a solicitudes FOIA, y no hay auditorias independientes de las búsquedas de ALPR.
-              Además, el FCPD comparte sus datos de información de ALPR con [más de 160 agencias](/documents/LPRAgencySharing.pdf). 
+              No es posible verificar como el FCPD usa las cámaras ALPR porque los registros de ALPR no están sujetos a solicitudes FOIA.
+              El FCPD comparte sus datos de información de ALPR con [más de 160 agencias](/documents/LPRAgencySharing.pdf). 
               Estas agencias pueden buscar en nuestras cámaras como ellos quieran, sin ninguna responsabilidad.
+              Además, todos los datos de Flock son propiedad de Flock, no del FCPD. 
+              Sus [términos y condiciones](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flocks-terms-and-conditions) otorgan a la empresa "el derecho exclusivo de determinar y controlar el método, el momento, el formato y el medio" de acceso a los datos
           - text: |
               Virginia aprobó una [ley](https://lis.virginia.gov/bill-details/20251/HB2724) en 2025 que regula el uso de ALPR, limitando el intercambio de datos de información y los periodos de retención.
               En 2026, la Comisión de Delitos publicó el [uso autorreportado de ALPR por los departamentos de policía](https://vscc.virginia.gov/2026/VSCC%20ALPR%20Report%20January%202026%20FINAL%20REVISED%20Jan%2021%202026.pdf).
@@ -289,6 +294,10 @@ languages:
               [Otros departamentos de policía de Virginia](/es/wins) han terminado sus contratos con Flock.
               Es hora de que el Condado de Fairfax haga lo mismo.
               Es hora de des-Flock.
+          - text: |
+              [Pide a la Junta de Supervisores del Condado de Fairfax que retire los ALPRs&nbsp;&rarr; ](https://actionnetwork.org/letters/board-of-supervisors-email)
+          - text: |
+              [Toma medidas contra los ALPR rellenando nuestro formulario de interés&nbsp;&rarr; ](https://bit.ly/DFAction)
       p2:
         heading: "Flock No Nos Hace Más Seguros"
         image: "images/pages/lpr-demo.webp"
@@ -360,6 +369,8 @@ languages:
         label: "Correo electrónico"
         placeholder: "Ingrese su correo electrónico"
         button: "Notificarme"
+        email: "ENVÍA UN CORREO ELECTRÓNICO A LA JUNTA DE SUPERVISORES PARA ELIMINAR LOS ALPRS"
+        interest: "APRENDE CÓMO ACTUAR CONTRA LOS ALPRS"
     menu:
       main:
         - identifier: faq
@@ -378,6 +389,10 @@ languages:
           name: Recursos
           url: /es/resources/
           weight: 30
+        - identifier: join
+          name: Únete
+          url: /es/join/
+          weight: 35
         - identifier: contact
           name: Contacto
           url: /es/contact/
@@ -399,6 +414,10 @@ languages:
           name: Recursos
           url: /es/resources/
           weight: 30
+        - identifier: join
+          name: Únete
+          url: /es/join/
+          weight: 35
         - identifier: contact
           name: Contacto
           url: /es/contact/
