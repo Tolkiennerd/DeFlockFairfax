@@ -80,15 +80,15 @@ languages:
               Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
           - text: |
               - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
-              - Wrongfully target innocent people who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) or [attacked by a K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
+              - Wrongfully target innocent people who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/), [attacked by a K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e), and [jailed](https://ij.org/dozens-of-innocent-motorists-have-been-pulled-over-detained-at-gunpoint-or-jailed-due-to-ai-license-plate-camera-errors/).
               - Surveil people exercising their [First Amendment rights](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists).
-              - Track a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
+              - Conduct a nationwide search for a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
               - Send [gun-show customers'](https://www.wsj.com/articles/gun-show-customers-license-plates-come-under-scrutiny-1475451302) information to federal agents
               - Assist [ICE's immigration crackdown](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
               - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
           - text: |
               It isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are not subject to FOIA requests.
-              FCPD shares its ALPR data with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
+              FCPD shares data from its 80+ Flock cameras and 700+ Axon cameras with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
               These agencies can search our cameras however they like, without any accountability.
               Moreover, all Flock data is owned by Flock, not FCPD. Its [terms and conditions](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flocks-terms-and-conditions) grant the company, "the exclusive right to determine and control the method, timing, format, and medium" of access to the data.
           - text: |
@@ -129,6 +129,7 @@ languages:
               and its other claims about safety have faced [skepticism from academics](https://www.wired.com/story/flock-safety-license-plate-readers-crime/). 
           - text: |
               The Denver police department canceled its Flock contract, and after the cameras were removed, [auto thefts went down](https://www.9news.com/article/news/local/local-politics/denvers-license-plate-cameras-auto-theft-dropped/73-73295672-9b03-45c2-a4c0-a38355ed84bb). 
+              FBI statistics show that increased ALPRs in Atlanta [didn't improve crime clearance rates](https://futurism.com/future-society/flock-surveillance-atlanta-fbi-data-crime-case-solve).
           - text: |
               Contrary to the idea that there is "no expectation of privacy in public," the Supreme Court explicitly [stated](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
               "A person does not surrender all Fourth Amendment protection by venturing into the public sphere."
@@ -259,14 +260,14 @@ languages:
           - text: |
               - Acechar a las [ex parejas románticas de oficiales de policía](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
               - Asistir la [ofensiva de inmigración de ICE](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).
-              - Apuntar injustamente a personas inocentes que fueron [retenidas a punta de pistola](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/) o [atacadas por un perro oficial K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e).
+              - Apuntar injustamente a personas inocentes que fueron [retenidas a punta de pistola](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/), [atacadas por un perro oficial K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e), [encarceladas](https://ij.org/dozens-of-innocent-motorists-have-been-pulled-over-detained-at-gunpoint-or-jailed-due-to-ai-license-plate-camera-errors/).
               - Envía la información de los [clientes de la feria de armas](https://www.wsj.com/articles/gun-show-customers-license-plates-come-under-scrutiny-1475451302) a agentes federales
               - Rastrear a una [mujer de Texas buscando servicios de aborto](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
               - [Vigilar a activistas](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists) en protestas de "No Kings."
               - Decirle a una [mujer inocente](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "No puedes respirar aire fresco...sin que nosotros lo sepamos."
           - text: |
               No es posible verificar como el FCPD usa las cámaras ALPR porque los registros de ALPR no están sujetos a solicitudes FOIA.
-              El FCPD comparte sus datos de información de ALPR con [más de 160 agencias](/documents/LPRAgencySharing.pdf). 
+              El FCPD comparte datos de sus 80+ cámaras Flock y 700+ cámaras Axon con [más de 160 agencias](/documents/LPRAgencySharing.pdf). 
               Estas agencias pueden buscar en nuestras cámaras como ellos quieran, sin ninguna responsabilidad.
               Además, todos los datos de Flock son propiedad de Flock, no del FCPD. 
               Sus [términos y condiciones](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flocks-terms-and-conditions) otorgan a la empresa "el derecho exclusivo de determinar y controlar el método, el momento, el formato y el medio" de acceso a los datos
@@ -308,6 +309,7 @@ languages:
               y sus otras afirmaciones sobre seguridad han enfrentado [escepticismo de académicos](https://www.wired.com/story/flock-safety-license-plate-readers-crime/).
           - text: |
               El departamento de policía de Denver canceló su contrato con Flock, y después de que se retiraron las cámaras, [los robos de autos se redujeron](https://www.9news.com/article/news/local/local-politics/denvers-license-plate-cameras-auto-theft-dropped/73-73295672-9b03-45c2-a4c0-a38355ed84bb).
+              Las estadísticas del FBI muestran que el aumento de los ALPRs en Atlanta [no mejoró las tasas de resolución de delitos](https://futurism.com/future-society/flock-surveillance-atlanta-fbi-data-crime-case-solve).
           - text: |
               Contrario a la idea de que "no hay expectativa de privacidad en público," la Corte Superior explícitamente [declaro](https://web.archive.org/web/20180623061246/https://www.law.cornell.edu/supremecourt/text/16-402)
               "Una persona no renuncia a toda protección de la Cuarta Enmienda al aventurarse en la esfera pública."
