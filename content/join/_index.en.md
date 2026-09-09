@@ -25,7 +25,7 @@ To urge the Board of Supervisors to remove ALPRs, email them!
 
 We will have a series of virtual events going into further detail about the specific harms of ALPRs.
 
-[Attend our virtual events&nbsp;&rarr;](https://actionnetwork.org/events/the-harms-of-mass-surveillance-alprs-and-immigration/)
+[Attend our virtual events&nbsp;&rarr;](https://actionnetwork.org/events/the-road-to-mass-surveillance-virtual-presentation/)
 
 <div id="newsletter" class="relative pb-16 mt-6 lg:my-32" style="margin-bottom: -6rem; margin-top: 3rem;">
     <div class="px-7 mx-auto max-w-md sm:max-w-3xl lg:max-w-7xl">

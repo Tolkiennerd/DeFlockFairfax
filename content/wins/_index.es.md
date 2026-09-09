@@ -67,3 +67,47 @@ La Oficina del Sheriff del condado de King William [ha retirado sus cámaras de 
 ### Condada de Giles
 
 El condado de Giles [terminará su contrato con Flock](https://www.wsls.com/news/local/2026/08/27/giles-county-sheriffs-office-to-end-flock-safety-agreement-on-oct-16/) un año antes de lo previsto. La oficina del sheriff dijo: "Mantener la confianza pública requiere más que determinar si un programa puede operarse legalmente."
+
+### Condada de Bedford
+
+La Oficina del Sheriff del Condado de Bedford declaró que [suspende el uso de las cámaras Flock](https://www.wfxrtv.com/news/bedford-county-sheriffs-office-pauses-flock-camera-use-cites-data-errors) debido a preocupaciones sobre la privacidad y discrepancias en el número de vehículos
+
+### Condada de Amherst
+
+La Oficina del Sheriff del Condado de Amherst [suspende el uso de cámaras Flock](https://www.wfxrtv.com/news/amherst-county-sheriffs-office-halts-flock-camera-use/) tras una auditoría interna del sistema que reveló errores de datos.
+
+### Bridgewater
+
+El Ayuntamiento de Bridgewater [resolvió por unanimidad retirar las cinco cámaras Flock del pueblo](https://www.dnronline.com/news/public_safety/bridgewater-town-council-votes-to-remove-flock-cameras/article_239a58f5-3e95-59b7-97ad-2259e3ca41da.html) y no instalar ninguna tecnología similar sin antes dialogar con los ciudadanos.
+
+### Condada de Prince Edward
+
+La Oficina del Sheriff del Condado de Prince Edward [ha dejado de usar cámaras Flock](https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/prince-edward-county-ends-use-of-flock-cameras/ar-AA2byck7) en el condado.
+
+### Condada de Henry
+
+El condado de Henry ha [suspendido el acceso de la oficina del sheriff al sistema de cámaras Flock y no renovará un contrato con Flock Safety cuando expire](https://www.wdbj7.com/2026/08/14/henry-county-sheriff-suspends-access-flock-camera-system/) en agosto de 2028. El sheriff Wayne Davis dijo: "No soy un sheriff de gran gobierno. Soy uno de los creyentes más firmes en la Constitución de los Estados Unidos y creo firmemente en proteger los derechos constitucionales y las libertades individuales de cada ciudadano a quien servimos."
+
+### Martinsville
+
+El Departamento de Policía de Martinsville ha decidido [no renovar su contrato](https://www.yahoo.com/news/us/articles/martinsville-police-won-t-renew-114457383.html) con Flock Safety cuando expire a finales de este año, citando cuestiones de confianza pública.
+
+### Condada de Appomattox
+
+El condado de Appomattox [canceló su contrato](https://wset.com/news/local/flock-fallout-appomattox-and-campbell-pull-the-plug-on-cameras) con Flock Safety. El sheriff Robert Richardson dijo que no se sentía seguro de poder presentarse ante la comunidad y argumentar a favor de mantener las cámaras.
+
+### Condada de Campbell
+
+El condado de Campbell [canceló su contrato](https://wset.com/news/local/flock-fallout-appomattox-and-campbell-pull-the-plug-on-cameras) con Flock Safety. El sheriff Whit Clark dijo: "Nuestros ciudadanos han expresado sus preocupaciones, y creo que esas preocupaciones merecen ser escuchadas."
+
+### Condada de Montgomery
+
+El condado de Montgomery está [pausando el uso de cámaras Flock](https://www.msn.com/en-us/news/other/montgomery-county-pauses-use-of-flock-safety-cameras/ar-AA2bwcxR). El sheriff Robert Page dijo que, tras escuchar las preocupaciones de los residentes sobre el uso de las cámaras en el condado, está estableciendo un comité de funcionarios locales y líderes comunitarios para examinar las políticas y prácticas actuales de la oficina del sheriff en torno a la tecnología de matrículas automáticas (ALPR).
+
+### Wytheville
+
+El Departamento de Policía de Wytheville [suspende el uso de cámaras Flock](https://www.yahoo.com/news/articles/wytheville-police-department-suspends-flock-222314887.html) debido a los persistentes temores sobre la privacidad. Para el jefe de policía Joel Hash, la decisión sirve para defender los "derechos de confianza y constitucionales" de la comunidad.
+
+### Dumfries
+
+El Ayuntamiento de Dumfries votó para [eliminar las cámaras lectoras de matrículas Flock](https://www.yahoo.com/news/us/articles/dumfries-town-council-votes-4-165438601.html) en toda la comunidad.

@@ -25,7 +25,7 @@ Para instar a la Junta de Supervisores a eliminar los ALPR, [envíelos por corre
 
 Tendremos una serie de eventos virtuales que profundizarán en los daños específicos de los ALPR.
 
-[Asiste a nuestros eventos virtuales&nbsp;&rarr;](https://actionnetwork.org/events/the-harms-of-mass-surveillance-alprs-and-immigration/)
+[Asiste a nuestros eventos virtuales&nbsp;&rarr;](https://actionnetwork.org/events/the-road-to-mass-surveillance-virtual-presentation/)
 
 <div id="newsletter" class="relative pb-16 mt-6 lg:my-32" style="margin-bottom: -6rem; margin-top: 3rem;">
     <div class="px-7 mx-auto max-w-md sm:max-w-3xl lg:max-w-7xl">
