@@ -77,9 +77,9 @@ languages:
               In 2023, the Fairfax County Police Department began using [Flock Safety License Plate Readers](https://www.ffxnow.com/2023/11/21/county-approves-funds-to-expand-fcpds-automatic-license-plate-reader-program/). 
               Unlike normal traffic cameras, automated license plate readers (ALPRs) [continually monitor](https://www.aclu.org/wp-content/uploads/publications/flock_1.pdf)
               all traffic to uniquely profile every passing vehicle and create an easily searchable history of its movements [without a warrant](https://www.cato.org/blog/schmidt-v-city-norfolk-brief-automated-license-plate-readers-commit-fourth-amendment-searches?utm_campaign=Cato_Today&utm_medium=email&utm_source=Cato_Email&utm_content=260421-Cato_Today).
-              Flock gained national attention for its collection of [over 80,000 cameras](https://www.404media.co/cbp-had-access-to-more-than-80-000-flock-ai-cameras-nationwide/) being used to:
+              Flock gained national attention for its collection of [over 120,000 cameras](https://unwall.app/www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html) being used to:
           - text: |
-              - Stalk police officers' [ex-romantic partners](https://www.themarshallproject.org/2026/03/07/police-camera-wisconsin-california-colorado).
+              - Stalk police officers' [ex-romantic partners](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/).
               - Wrongfully target innocent people who were [held at gunpoint](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/), [attacked by a K-9](https://www.wtol.com/article/news/local/city-of-toledo-to-pay-brandon-upchurch-35000-dollar-settlement-in-k9-attack-traffic-stop-local-news/512-e6ad4d91-75de-4bc7-a088-5aebbdd0907e), and [jailed](https://ij.org/dozens-of-innocent-motorists-have-been-pulled-over-detained-at-gunpoint-or-jailed-due-to-ai-license-plate-camera-errors/).
               - Surveil people exercising their [First Amendment rights](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists).
               - Conduct a nationwide search for a [Texas woman getting an abortion](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
@@ -88,7 +88,7 @@ languages:
               - Tell an [innocent woman](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/), "You can't get a breath of fresh air...without us knowing."
           - text: |
               It isn't possible to verify how FCPD uses ALPR cameras because ALPR logs are not subject to FOIA requests.
-              FCPD shares data from its 80+ Flock cameras and 700+ Axon cameras with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
+              FCPD shares continuous data from its 80+ Flock cameras and 700+ Axon cameras with [over 160 agencies](/documents/LPRAgencySharing.pdf). 
               These agencies can search our cameras however they like, without any accountability.
               Moreover, all Flock data is owned by Flock, not FCPD. Its [terms and conditions](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flocks-terms-and-conditions) grant the company, "the exclusive right to determine and control the method, timing, format, and medium" of access to the data.
           - text: |
