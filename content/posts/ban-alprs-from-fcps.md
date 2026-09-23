@@ -13,7 +13,7 @@ DeFlock Fairfax fully supports School Board Member McDaniel's motion to prohibit
 
 DeFlock Fairfax urges County residents to call or email their School Board member today to demand a YES on Thursday's school board vote to ban ALPRs on school property.
 
-Further, we invite all concerned County residents to add to the thousands of emails we have already sent to the Board of Supervisors, by signing our campaign to end all ALPRs in Fairfax County [here](bit.ly/DFLetter).
+Further, we invite all concerned County residents to add to the thousands of emails we have already sent to the Board of Supervisors, by signing our campaign to end all ALPRs in Fairfax County [here](https://bit.ly/DFLetter).
 
 DeFlock Fairfax stands united with our partner groups in Alexandria, Arlington, and George Mason University as we work towards a full ban of ALPRs in Northern Virginia. Citizen groups in Harrisonburg, Virginia, achieved an extraordinary accomplishment with the city council signing an ordinance to prevent any future ALPR installation without public conversation. In the shameful absence of a full statewide ALPR ban, this is the standard DeFlock Fairfax is working towards and will win. Join us.
 
