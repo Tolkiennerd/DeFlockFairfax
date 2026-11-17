@@ -9,6 +9,8 @@ summary: DeFlock Fairfax opposes the Board of Supervisor's vote to maintain usin
 description: DeFlock Fairfax opposes the Board of Supervisor's vote to maintain using ALPRs
 ---
 
+**November 17, 2026**
+
 This morning, Chairman Jeff Mckay introduced a board matter proposing to further regulate stationary automatic license plate reader systems (ALPRs) in Fairfax County, VA. Today’s board discussion came as a surprise and disappointment. 
 
 Deflock Fairfax represents a broad bipartisan majority of Fairfax residents demanding an end to the use of ALPRs. The Fairfax County Board of Supervisors have received nearly ten thousand emails from county residents and numerous requests to meet privately with community delegations and subject matter experts from local, regional and state organizations. Many of these requests have gone ignored, and we were neither informed of nor requested to provide additional input on today’s board matter
